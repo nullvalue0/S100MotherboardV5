@@ -9,10 +9,10 @@ One limitation of using these power supplies is that current will be limited. It
 I have a project set up through Mouser which has most of the parts required to build this motherboard: https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4174963905 
 
 There are a few parts not included in the Mouser project above:
-LM4250CN - this Op Amp IC is obsolete but can still be found on eBay.
-24V power supply (5.5mm x 2.1mm barrel connector) - I ordered the 7A version of this one: https://www.ebay.com/itm/393979601717?var=662535600213
-S-100 slot connectors - sorry you're on your own for these - they can be expensive ($10-12 ea), so populate as few or as many as you'll actually need.
-3 standard LEDs (I had plenty in my parts bin).
+- LM4250CN - this Op Amp IC is obsolete but can still be found on eBay.
+- 24V power supply (5.5mm x 2.1mm barrel connector) - I ordered the 7A version of this one: https://www.ebay.com/itm/393979601717?var=662535600213
+- S-100 slot connectors - sorry you're on your own for these - they can be expensive ($10-12 ea), so populate as few or as many as you'll actually need.
+- 3 standard LEDs (I had plenty in my parts bin).
 
 This revision has kept all the great features of the V3 and V4 motherboards including:
 Active Termination for fasters speeds

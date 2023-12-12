@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "EUS_R-PDSS-T5_"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "EUS_R-PDSS-T5_")
+        (spec "default")
+    )
+)

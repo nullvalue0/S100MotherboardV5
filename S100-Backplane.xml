@@ -1,0 +1,3008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Projects\S100 Backplane\S100 Backplane V5\S100-Backplane.kicad_sch</source>
+    <date>12/10/2023 2:34:20 PM</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>noname.sch</title>
+        <company/>
+        <rev/>
+        <date>11 dec 2011</date>
+        <source>S100-Backplane.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>39 UF</value>
+      <footprint>C1V7</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8f77c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.47 UF</value>
+      <footprint>C1V7</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8f936</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>39 UF</value>
+      <footprint>C1V7</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d9024d</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>39 UF</value>
+      <footprint>C1V7</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d90285</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>39 UF</value>
+      <footprint>C1V7</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d9028e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>39 UF</value>
+      <footprint>C1V7</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d9028f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>39 UF</value>
+      <footprint>C1V7</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d902a1</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>39 UF</value>
+      <footprint>C1V7</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8f7c5</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100uF 50V</value>
+      <footprint>samac:CAPPRD350W60D825H1350</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/2/ELXZ500ELL101MH12D.pdf</datasheet>
+      <fields>
+        <field name="Height">13.5</field>
+        <field name="Manufacturer_Name">Chemi-Con</field>
+        <field name="Manufacturer_Part_Number">ELXZ500ELL101MH12D</field>
+        <field name="Mouser Part Number">661-ELXZ500ELL101MH1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Chemi-Con/ELXZ500ELL101MH12D?qs=Bh08734uQZCPydub3Junyw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="ELXZ500ELL101MH12D" description="Cap Aluminum Lytic 100uF 50V 20% (8 X 12mm) Radial 3.5mm 485mA 3000h 105C Automotive Bulk"/>
+      <property name="Height" value="13.5"/>
+      <property name="Mouser Part Number" value="661-ELXZ500ELL101MH1"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Chemi-Con/ELXZ500ELL101MH12D?qs=Bh08734uQZCPydub3Junyw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Chemi-Con"/>
+      <property name="Manufacturer_Part_Number" value="ELXZ500ELL101MH12D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="Cap Aluminum Lytic 100uF 50V 20% (8 X 12mm) Radial 3.5mm 485mA 3000h 105C Automotive Bulk"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b690902-9582-4997-8165-d437fd12089e</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>4.7uF 50V</value>
+      <footprint>RDER72E154K3M1H03A</footprint>
+      <datasheet>https://psearch.en.murata.com/capacitor/product/RCER71H475K3M1H03A.html</datasheet>
+      <fields>
+        <field name="Height">6.5</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">RCER71H475K3M1H03A</field>
+        <field name="Mouser Part Number">81-RCER71H475K3M1H3A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/RCER71H475K3M1H03A?qs=Zt%252BKPUOg4oeQuCXQX1BgyA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSym" part="RCER71H475K3M1H03A" description="Capacitor L=5.5mm W=5.0mm T=4.0mm"/>
+      <property name="Height" value="6.5"/>
+      <property name="Mouser Part Number" value="81-RCER71H475K3M1H3A"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Murata-Electronics/RCER71H475K3M1H03A?qs=Zt%252BKPUOg4oeQuCXQX1BgyA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="RCER71H475K3M1H03A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="Capacitor L=5.5mm W=5.0mm T=4.0mm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9ed08ca-ec28-4032-af73-061c6e3dd995</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100uF 50V</value>
+      <footprint>samac:CAPPRD350W60D825H1350</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/2/ELXZ500ELL101MH12D.pdf</datasheet>
+      <fields>
+        <field name="Height">13.5</field>
+        <field name="Manufacturer_Name">Chemi-Con</field>
+        <field name="Manufacturer_Part_Number">ELXZ500ELL101MH12D</field>
+        <field name="Mouser Part Number">661-ELXZ500ELL101MH1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Chemi-Con/ELXZ500ELL101MH12D?qs=Bh08734uQZCPydub3Junyw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="ELXZ500ELL101MH12D" description="Cap Aluminum Lytic 100uF 50V 20% (8 X 12mm) Radial 3.5mm 485mA 3000h 105C Automotive Bulk"/>
+      <property name="Height" value="13.5"/>
+      <property name="Mouser Part Number" value="661-ELXZ500ELL101MH1"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Chemi-Con/ELXZ500ELL101MH12D?qs=Bh08734uQZCPydub3Junyw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Chemi-Con"/>
+      <property name="Manufacturer_Part_Number" value="ELXZ500ELL101MH12D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="Cap Aluminum Lytic 100uF 50V 20% (8 X 12mm) Radial 3.5mm 485mA 3000h 105C Automotive Bulk"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d027a6b1-7447-4698-84b9-1be432621989</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LEDV</footprint>
+      <libsource lib="S100-Backplane-rescue" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a0622</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LEDV</footprint>
+      <libsource lib="S100-Backplane-rescue" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a0621</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LEDV</footprint>
+      <libsource lib="S100-Backplane-rescue" part="LED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a061e</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>FUSE</value>
+      <footprint>R5</footprint>
+      <libsource lib="S100-Backplane-rescue" part="FUSE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a061b</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>FUSE</value>
+      <footprint>R5</footprint>
+      <libsource lib="S100-Backplane-rescue" part="FUSE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a061d</tstamps>
+    </comp>
+    <comp ref="F3">
+      <value>FUSE</value>
+      <footprint>R5</footprint>
+      <libsource lib="S100-Backplane-rescue" part="FUSE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a061c</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>7805</value>
+      <footprint>LM78XX</footprint>
+      <libsource lib="S100-Backplane-rescue" part="7805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d93b4f</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>LM4250</value>
+      <footprint>8dip300</footprint>
+      <fields>
+        <field name="Field8">386</field>
+      </fields>
+      <libsource lib="" part="LM4250_2" description=""/>
+      <property name="Field8" value="386"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8fac2</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>PTN78000AAH</value>
+      <footprint>samac:EUS_R-PDSS-T5_</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/ptn78000a.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">PTN78000AAH</field>
+        <field name="Mouser Part Number">595-PTN78000AAH</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/PTN78000AAH?qs=sSOk4GDDv7xMxL4enD0otw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="PTN78000AAH" description="DC/DC Power Supply Single-OUT -15 to -3V PTN78000AAH, DC-DC Power Supply Module 7 V Input,, 5-Pin, DIP Module"/>
+      <property name="Height" value=""/>
+      <property name="Mouser Part Number" value="595-PTN78000AAH"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/PTN78000AAH?qs=sSOk4GDDv7xMxL4enD0otw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="PTN78000AAH"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="DC/DC Power Supply Single-OUT -15 to -3V PTN78000AAH, DC-DC Power Supply Module 7 V Input,, 5-Pin, DIP Module"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83906392-cc4f-4d0d-8428-051709d9b5d3</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>15V D30V30F15</value>
+      <footprint>S100 Backplane:D30V30F15</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>646e0965-cb6d-4603-b2cd-31d64b95d108</tstamps>
+    </comp>
+    <comp ref="IC5">
+      <value>7.5V D36V50F7</value>
+      <footprint>S100 Backplane:D36V50F7</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x06_Odd_Even" description="Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>414138fe-918f-40d4-9348-69dded19dbc4</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Barrel_Jack_MountingPin</value>
+      <footprint>Connector_BarrelJack:BarrelJack_Horizontal</footprint>
+      <libsource lib="Connector" part="Barrel_Jack_MountingPin" description="DC Barrel Jack with a mounting pin"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="DC Barrel Jack with a mounting pin"/>
+      <property name="ki_keywords" value="DC power barrel jack connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c5528e1-5d9d-468d-a25d-f206ea2ffbcb</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>JUMPER</value>
+      <footprint>SIL-2</footprint>
+      <libsource lib="S100-Backplane-rescue" part="JUMPER" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3cfe3f</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>JUMPER</value>
+      <footprint>SIL-2</footprint>
+      <libsource lib="S100-Backplane-rescue" part="JUMPER" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3cfe47</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>JUMPER</value>
+      <footprint>SIL-2</footprint>
+      <libsource lib="S100-Backplane-rescue" part="JUMPER" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3cfe4c</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>CONN_3</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a06b5</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_3X2</value>
+      <footprint>bornier6</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_3X2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000498dfa9f</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_13X2</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_13X2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c2c8288-c846-4926-a975-e290d29ea5ec</tstamps>
+    </comp>
+    <comp ref="P3">
+      <value>CONN_13X2</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_13X2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15db9ad8-db6c-444a-bb81-7b12c0102124</tstamps>
+    </comp>
+    <comp ref="P4">
+      <value>CONN_13X2</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_13X2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec65c653-98b1-444c-b266-7dc69eb4bdd5</tstamps>
+    </comp>
+    <comp ref="P5">
+      <value>CONN_13X2</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_13X2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e20a5b2c-5c9c-4ff9-8737-d4499b50abb8</tstamps>
+    </comp>
+    <comp ref="P6">
+      <value>CONN_1</value>
+      <footprint>1pin</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d0fdc30-87ae-4384-ac10-f8e63e66077e</tstamps>
+    </comp>
+    <comp ref="P7">
+      <value>CONN_1</value>
+      <footprint>1pin</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e08c4904-5deb-450f-8ca4-70010c500e6f</tstamps>
+    </comp>
+    <comp ref="P8">
+      <value>CONN_1</value>
+      <footprint>1pin</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ec8fb4c-ebf0-499c-ae7a-10f8953f699b</tstamps>
+    </comp>
+    <comp ref="P9">
+      <value>CONN_1</value>
+      <footprint>1pin</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46372607-0074-4980-b5d9-6fb6bdb24c58</tstamps>
+    </comp>
+    <comp ref="P10">
+      <value>CONN_1</value>
+      <footprint>1pin</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6885cc6-a5bb-4a99-8901-3b9cf4beba2f</tstamps>
+    </comp>
+    <comp ref="P11">
+      <value>CONN_1</value>
+      <footprint>1pin</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be96f95e-a9ea-432d-b2d1-b6a1e7f2b908</tstamps>
+    </comp>
+    <comp ref="P12">
+      <value>CONN_2</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="CONN_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a1586</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N3906TF</value>
+      <footprint>TO_SOT_THT:TO-92</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3906-D.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">2N3906TF</field>
+        <field name="Mouser Part Number">512-2N3906TF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/2N3906TF?qs=2V4k6Hs0nQlRuTN1j8DMpA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSym" part="2N3906TF" description="ON Semi 2N3906TF PNP Transistor, 200 mA, 40 V, 3-Pin TO-92"/>
+      <property name="Height" value=""/>
+      <property name="Mouser Part Number" value="512-2N3906TF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/2N3906TF?qs=2V4k6Hs0nQlRuTN1j8DMpA%3D%3D"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="2N3906TF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="ON Semi 2N3906TF PNP Transistor, 200 mA, 40 V, 3-Pin TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8667c2de-5591-43e5-8f6a-25b82f8c6d9d</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>2N3904TA</value>
+      <footprint>TO_SOT_THT:TO-92</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/2N3904-D.pdf</datasheet>
+      <fields>
+        <field name="Description">Transistor GP BJT NPN 40V 0.2A TO92-3</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">2N3904TA</field>
+        <field name="Mouser Part Number">512-2N3904TA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/2N3904TA?qs=ljbEvF4DwOOn1Ev%2FzRYaoA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacLib" part="2N3904TA" description="Transistor GP BJT NPN 40V 0.2A TO92-3"/>
+      <property name="Description" value="Transistor GP BJT NPN 40V 0.2A TO92-3"/>
+      <property name="Height" value=""/>
+      <property name="Mouser Part Number" value="512-2N3904TA"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/2N3904TA?qs=ljbEvF4DwOOn1Ev%2FzRYaoA%3D%3D"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="2N3904TA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="Transistor GP BJT NPN 40V 0.2A TO92-3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d6d8149-748e-4fc1-a895-b1e793156356</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>TIP29BG</value>
+      <footprint>TO_SOT_THT:TO-220-3_Horizontal_TabDown</footprint>
+      <datasheet>https://ms.componentsearchengine.com/Datasheets/2/TIP29BG.pdf</datasheet>
+      <fields>
+        <field name="Description">ONSEMI - TIP29BG - Bipolar (BJT) Single Transistor, NPN, 80 V, 1 A, 30 W, TO-220, Through Hole</field>
+        <field name="Height">4.7</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">TIP29BG</field>
+      </fields>
+      <libsource lib="SamacLib" part="TIP29BG" description="ONSEMI - TIP29BG - Bipolar (BJT) Single Transistor, NPN, 80 V, 1 A, 30 W, TO-220, Through Hole"/>
+      <property name="Description" value="ONSEMI - TIP29BG - Bipolar (BJT) Single Transistor, NPN, 80 V, 1 A, 30 W, TO-220, Through Hole"/>
+      <property name="Height" value="4.7"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="TIP29BG"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="ONSEMI - TIP29BG - Bipolar (BJT) Single Transistor, NPN, 80 V, 1 A, 30 W, TO-220, Through Hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d203a1d-dffe-4e63-b4cc-943880f41801</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>TIP30CG</value>
+      <footprint>TO_SOT_THT:TO-220-3_Horizontal_TabDown</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/TIP29B-D.PDF</datasheet>
+      <fields>
+        <field name="Description">Complementary Silicon Plastic Power Transistors</field>
+        <field name="Height">4.83</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">TIP30CG</field>
+        <field name="Mouser Part Number">863-TIP30CG</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/TIP30CG?qs=xZq1yRCsb1fdZ1wKETGXLw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacLib" part="TIP30CG" description="Complementary Silicon Plastic Power Transistors"/>
+      <property name="Description" value="Complementary Silicon Plastic Power Transistors"/>
+      <property name="Height" value="4.83"/>
+      <property name="Mouser Part Number" value="863-TIP30CG"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi/TIP30CG?qs=xZq1yRCsb1fdZ1wKETGXLw%3D%3D"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="TIP30CG"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="Complementary Silicon Plastic Power Transistors"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d6333cb-c70c-4162-a73c-25dd5be8c0db</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>2000</value>
+      <footprint>RV2</footprint>
+      <libsource lib="S100-Backplane-rescue" part="POT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8f884</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>150K</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8feea</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>560</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8fd47</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1000</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8fc2e</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>560</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8fc8d</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>910</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8ff8a</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>910</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8ff46</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1000</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d90229</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1800</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8f849</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1800</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d8f896</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>270</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da93a0</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>270</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da93a9</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>270</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da93ae</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>270</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da950b</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>470</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a0623</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1K</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a0620</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1K</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a061f</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>470</value>
+      <footprint>R3</footprint>
+      <libsource lib="S100-Backplane-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a061a</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>100R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>623ec5d2-9a46-47e0-8f49-7fc5c0f86ade</tstamps>
+    </comp>
+    <comp ref="RR1">
+      <value>270</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="RR9" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da8ddd</tstamps>
+    </comp>
+    <comp ref="RR2">
+      <value>270</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="RR9" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da8e18</tstamps>
+    </comp>
+    <comp ref="RR3">
+      <value>270</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="RR9" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da8e1e</tstamps>
+    </comp>
+    <comp ref="RR4">
+      <value>270</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="RR9" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da8ee0</tstamps>
+    </comp>
+    <comp ref="RR5">
+      <value>270</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="RR9" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da8ee1</tstamps>
+    </comp>
+    <comp ref="RR6">
+      <value>270</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="RR9" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da8ee2</tstamps>
+    </comp>
+    <comp ref="RR7">
+      <value>270</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="RR9" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da8f1c</tstamps>
+    </comp>
+    <comp ref="RR8">
+      <value>270</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="RR9" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da8f1d</tstamps>
+    </comp>
+    <comp ref="RR9">
+      <value>270</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="RR9" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da8f1e</tstamps>
+    </comp>
+    <comp ref="RR10">
+      <value>270</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="S100-Backplane-rescue" part="RR9" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049da8fc4</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>SW_PUSH_SMALL</footprint>
+      <libsource lib="S100-Backplane-rescue" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a0619</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>CWSA11AAN1H</value>
+      <footprint>samac:CWSA11AAN1H</footprint>
+      <datasheet>http://www.nkkswitches.com/pdf/CWS-2.pdf</datasheet>
+      <fields>
+        <field name="Height">14.8</field>
+        <field name="Manufacturer_Name">NKK Switches</field>
+        <field name="Manufacturer_Part_Number">CWSA11AAN1H</field>
+        <field name="Mouser Part Number">633-CWSA11AAN1H</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/NKK-Switches/CWSA11AAN1H?qs=Q3Z28Xqk4Z%252BPrQDMlrRWsA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="CWSA11AAN1H" description="NKK SWITCHES - CWSA11AAN1H - SWITCH, ROCKER, SPST, 6A, 250VAC, BLACK"/>
+      <property name="Height" value="14.8"/>
+      <property name="Mouser Part Number" value="633-CWSA11AAN1H"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/NKK-Switches/CWSA11AAN1H?qs=Q3Z28Xqk4Z%252BPrQDMlrRWsA%3D%3D"/>
+      <property name="Manufacturer_Name" value="NKK Switches"/>
+      <property name="Manufacturer_Part_Number" value="CWSA11AAN1H"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <property name="ki_description" value="NKK SWITCHES - CWSA11AAN1H - SWITCH, ROCKER, SPST, 6A, 250VAC, BLACK"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bd1cd71-bdb8-41e4-9145-a1336d474deb</tstamps>
+    </comp>
+    <comp ref="U31">
+      <value>S100_FEMALE</value>
+      <footprint>S100_FEMALE</footprint>
+      <libsource lib="S100-Backplane-rescue" part="S100_FEMALE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004988faa3</tstamps>
+    </comp>
+    <comp ref="U32">
+      <value>S100_FEMALE</value>
+      <footprint>S100_FEMALE</footprint>
+      <libsource lib="S100-Backplane-rescue" part="S100_FEMALE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004988efd7</tstamps>
+    </comp>
+    <comp ref="U33">
+      <value>S100_FEMALE</value>
+      <footprint>S100_FEMALE</footprint>
+      <libsource lib="S100-Backplane-rescue" part="S100_FEMALE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d90bf5</tstamps>
+    </comp>
+    <comp ref="U34">
+      <value>S100_FEMALE</value>
+      <footprint>S100_FEMALE</footprint>
+      <libsource lib="S100-Backplane-rescue" part="S100_FEMALE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000049d90c18</tstamps>
+    </comp>
+    <comp ref="U35">
+      <value>S100_FEMALE</value>
+      <footprint>S100_FEMALE</footprint>
+      <libsource lib="S100-Backplane-rescue" part="S100_FEMALE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000498901d7</tstamps>
+    </comp>
+    <comp ref="U36">
+      <value>S100_FEMALE</value>
+      <footprint>S100_FEMALE</footprint>
+      <libsource lib="S100-Backplane-rescue" part="S100_FEMALE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000498901d6</tstamps>
+    </comp>
+    <comp ref="U37">
+      <value>S100_FEMALE</value>
+      <footprint>S100_FEMALE</footprint>
+      <libsource lib="S100-Backplane-rescue" part="S100_FEMALE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a05a9</tstamps>
+    </comp>
+    <comp ref="U38">
+      <value>S100_FEMALE</value>
+      <footprint>S100_FEMALE</footprint>
+      <libsource lib="S100-Backplane-rescue" part="S100_FEMALE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00004c3a05aa</tstamps>
+    </comp>
+    <comp ref="U39">
+      <value>S100_FEMALE</value>
+      <footprint>S100_FEMALE</footprint>
+      <libsource lib="S100-Backplane-rescue" part="S100_FEMALE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="S100-Backplane.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f3b063f-ceb5-4058-a772-426dc1f6405b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="LM4250_2">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM4250</field>
+        <field name="Field4">386</field>
+      </fields>
+      <pins>
+        <pin num="1" name="FIN" type="passive"/>
+        <pin num="2" name="MINUS" type="input"/>
+        <pin num="3" name="PLUS" type="input"/>
+        <pin num="4" name="MINUS" type="input"/>
+        <pin num="5" name="FOUT" type="passive"/>
+        <pin num="6" name="OUTPUT" type="output"/>
+        <pin num="7" name="PLUS" type="input"/>
+        <pin num="8" name="FIN" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Barrel_Jack_MountingPin">
+      <description>DC Barrel Jack with a mounting pin</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_MountingPin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="MP" name="MountPin" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x06_Odd_Even">
+      <description>Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x06_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="7805">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">7805</field>
+      </fields>
+      <pins>
+        <pin num="GND" name="GND" type="input"/>
+        <pin num="VI" name="VI" type="input"/>
+        <pin num="VO" name="VO" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="CONN_1">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="CONN_13X2">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_13X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+        <pin num="15" name="P15" type="passive"/>
+        <pin num="16" name="P16" type="passive"/>
+        <pin num="17" name="P17" type="passive"/>
+        <pin num="18" name="P18" type="passive"/>
+        <pin num="19" name="P19" type="passive"/>
+        <pin num="20" name="P20" type="passive"/>
+        <pin num="21" name="P21" type="passive"/>
+        <pin num="22" name="P22" type="passive"/>
+        <pin num="23" name="P23" type="passive"/>
+        <pin num="24" name="P20" type="passive"/>
+        <pin num="25" name="P24" type="passive"/>
+        <pin num="26" name="P22" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="CONN_2">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="CONN_3">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">CONN_3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="CONN_3X2">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_3X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="CP">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="FUSE">
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">FUSE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="JUMPER">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JUMPER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="LED">
+      <footprints>
+        <fp>LED-3MM</fp>
+        <fp>LED-5MM</fp>
+        <fp>LED-10MM</fp>
+        <fp>LED-0603</fp>
+        <fp>LED-0805</fp>
+        <fp>LED-1206</fp>
+        <fp>LEDV</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="POT">
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="R">
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R?-*</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="RR9">
+      <fields>
+        <field name="Reference">RR</field>
+        <field name="Value">RR9</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="S100_FEMALE">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">S100_FEMALE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+8_V" type="power_in"/>
+        <pin num="2" name="+16_V" type="power_in"/>
+        <pin num="3" name="XRDY" type="bidirectional"/>
+        <pin num="4" name="VIO*" type="bidirectional"/>
+        <pin num="5" name="VI1*" type="bidirectional"/>
+        <pin num="6" name="VI2*" type="bidirectional"/>
+        <pin num="7" name="VI3*" type="bidirectional"/>
+        <pin num="8" name="VI4*" type="bidirectional"/>
+        <pin num="9" name="VI5*" type="bidirectional"/>
+        <pin num="10" name="VI6*" type="bidirectional"/>
+        <pin num="11" name="VI7*" type="bidirectional"/>
+        <pin num="12" name="NMI*" type="bidirectional"/>
+        <pin num="13" name="PWRFAIL*" type="bidirectional"/>
+        <pin num="14" name="TMA3*" type="bidirectional"/>
+        <pin num="15" name="A18" type="bidirectional"/>
+        <pin num="16" name="A16" type="bidirectional"/>
+        <pin num="17" name="A17" type="bidirectional"/>
+        <pin num="18" name="SDSB*" type="bidirectional"/>
+        <pin num="19" name="CDSB*" type="bidirectional"/>
+        <pin num="20" name="0_V1" type="bidirectional"/>
+        <pin num="21" name="NDEF1" type="bidirectional"/>
+        <pin num="22" name="ADSB*" type="bidirectional"/>
+        <pin num="23" name="DODSB*" type="bidirectional"/>
+        <pin num="24" name="PHI" type="bidirectional"/>
+        <pin num="25" name="pSTVAL*" type="bidirectional"/>
+        <pin num="26" name="pHDLA" type="bidirectional"/>
+        <pin num="27" name="RFU_1" type="bidirectional"/>
+        <pin num="28" name="RFU_2" type="bidirectional"/>
+        <pin num="29" name="A5" type="bidirectional"/>
+        <pin num="30" name="A4" type="bidirectional"/>
+        <pin num="31" name="A3" type="bidirectional"/>
+        <pin num="32" name="A15" type="bidirectional"/>
+        <pin num="33" name="A12" type="bidirectional"/>
+        <pin num="34" name="A9" type="bidirectional"/>
+        <pin num="35" name="DO1_ED1" type="bidirectional"/>
+        <pin num="36" name="DO0_ED0" type="bidirectional"/>
+        <pin num="37" name="A10" type="bidirectional"/>
+        <pin num="38" name="DO4_ED4" type="bidirectional"/>
+        <pin num="39" name="DO5_ED5" type="bidirectional"/>
+        <pin num="40" name="DO6_ED6" type="bidirectional"/>
+        <pin num="41" name="D12_OD2" type="bidirectional"/>
+        <pin num="42" name="D13_OD3" type="bidirectional"/>
+        <pin num="43" name="D17_OD7" type="bidirectional"/>
+        <pin num="44" name="sM1" type="bidirectional"/>
+        <pin num="45" name="sOUT" type="bidirectional"/>
+        <pin num="46" name="sINP" type="bidirectional"/>
+        <pin num="47" name="sMEMR" type="bidirectional"/>
+        <pin num="48" name="sHLTA" type="bidirectional"/>
+        <pin num="49" name="CLOCK" type="bidirectional"/>
+        <pin num="50" name="0_V2" type="power_in"/>
+        <pin num="51" name="+8_V" type="power_in"/>
+        <pin num="52" name="-16_V" type="power_in"/>
+        <pin num="53" name="0_V3" type="bidirectional"/>
+        <pin num="54" name="SLAVE_CLR*" type="bidirectional"/>
+        <pin num="55" name="TMA0*" type="bidirectional"/>
+        <pin num="56" name="TMA1*" type="bidirectional"/>
+        <pin num="57" name="TMA2*" type="bidirectional"/>
+        <pin num="58" name="sXTRQ*" type="bidirectional"/>
+        <pin num="59" name="A19" type="bidirectional"/>
+        <pin num="60" name="SIXTN*" type="bidirectional"/>
+        <pin num="61" name="A20" type="bidirectional"/>
+        <pin num="62" name="A21" type="bidirectional"/>
+        <pin num="63" name="A22" type="bidirectional"/>
+        <pin num="64" name="A23" type="bidirectional"/>
+        <pin num="65" name="NDEF2" type="bidirectional"/>
+        <pin num="66" name="NDEF3" type="bidirectional"/>
+        <pin num="67" name="PHANTOM*" type="bidirectional"/>
+        <pin num="68" name="MWRT" type="bidirectional"/>
+        <pin num="69" name="RFU3" type="bidirectional"/>
+        <pin num="70" name="0_V4" type="bidirectional"/>
+        <pin num="71" name="RFU4" type="bidirectional"/>
+        <pin num="72" name="RDY" type="bidirectional"/>
+        <pin num="73" name="INT*" type="bidirectional"/>
+        <pin num="74" name="HOLD*" type="bidirectional"/>
+        <pin num="75" name="RESET*" type="bidirectional"/>
+        <pin num="76" name="pSYNC" type="bidirectional"/>
+        <pin num="77" name="pWR*" type="bidirectional"/>
+        <pin num="78" name="pDBIN" type="bidirectional"/>
+        <pin num="79" name="A0" type="bidirectional"/>
+        <pin num="80" name="A1" type="bidirectional"/>
+        <pin num="81" name="A2" type="bidirectional"/>
+        <pin num="82" name="A6" type="bidirectional"/>
+        <pin num="83" name="A7" type="bidirectional"/>
+        <pin num="84" name="A8" type="bidirectional"/>
+        <pin num="85" name="A13" type="bidirectional"/>
+        <pin num="86" name="A14" type="bidirectional"/>
+        <pin num="87" name="A11" type="bidirectional"/>
+        <pin num="88" name="DO2_ED2" type="bidirectional"/>
+        <pin num="89" name="DO3_ED3" type="bidirectional"/>
+        <pin num="90" name="DO7_ED7" type="bidirectional"/>
+        <pin num="91" name="DI4_OD4" type="bidirectional"/>
+        <pin num="92" name="DI5_OD5" type="bidirectional"/>
+        <pin num="93" name="DI6_OD6" type="bidirectional"/>
+        <pin num="94" name="DI1_OD1" type="bidirectional"/>
+        <pin num="95" name="DI1_OD1" type="bidirectional"/>
+        <pin num="96" name="sINTA" type="bidirectional"/>
+        <pin num="97" name="sWO*" type="bidirectional"/>
+        <pin num="98" name="ERROR*" type="bidirectional"/>
+        <pin num="99" name="POC*" type="bidirectional"/>
+        <pin num="100" name="0_V5" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="S100-Backplane-rescue" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacLib" part="2N3904TA">
+      <description>Transistor GP BJT NPN 40V 0.2A TO92-3</description>
+      <docs>http://www.onsemi.com/pub/Collateral/2N3904-D.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3904TA</field>
+        <field name="Footprint">BC33740TA</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/2N3904-D.pdf</field>
+        <field name="Description">Transistor GP BJT NPN 40V 0.2A TO92-3</field>
+        <field name="Mouser Part Number">512-2N3904TA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/2N3904TA?qs=ljbEvF4DwOOn1Ev%2FzRYaoA%3D%3D</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">2N3904TA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacLib" part="TIP29BG">
+      <description>ONSEMI - TIP29BG - Bipolar (BJT) Single Transistor, NPN, 80 V, 1 A, 30 W, TO-220, Through Hole</description>
+      <docs>https://ms.componentsearchengine.com/Datasheets/2/TIP29BG.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TIP29BG</field>
+        <field name="Footprint">TO254P470X1016X2019-3P</field>
+        <field name="Datasheet">https://ms.componentsearchengine.com/Datasheets/2/TIP29BG.pdf</field>
+        <field name="Description">ONSEMI - TIP29BG - Bipolar (BJT) Single Transistor, NPN, 80 V, 1 A, 30 W, TO-220, Through Hole</field>
+        <field name="Height">4.7</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">TIP29BG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacLib" part="TIP30CG">
+      <description>Complementary Silicon Plastic Power Transistors</description>
+      <docs>http://www.onsemi.com/pub/Collateral/TIP29B-D.PDF</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TIP30CG</field>
+        <field name="Footprint">TO254P483X1010X2035-3P</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/TIP29B-D.PDF</field>
+        <field name="Description">Complementary Silicon Plastic Power Transistors</field>
+        <field name="Height">4.83</field>
+        <field name="Mouser Part Number">863-TIP30CG</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/TIP30CG?qs=xZq1yRCsb1fdZ1wKETGXLw%3D%3D</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">TIP30CG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSym" part="2N3906TF">
+      <description>ON Semi 2N3906TF PNP Transistor, 200 mA, 40 V, 3-Pin TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/2N3906-D.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3906TF</field>
+        <field name="Footprint">BC33740TA</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/2N3906-D.pdf</field>
+        <field name="Mouser Part Number">512-2N3906TF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/2N3906TF?qs=2V4k6Hs0nQlRuTN1j8DMpA%3D%3D</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">2N3906TF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSym" part="RCER71H475K3M1H03A">
+      <description>Capacitor L=5.5mm W=5.0mm T=4.0mm</description>
+      <docs>https://psearch.en.murata.com/capacitor/product/RCER71H475K3M1H03A.html</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">RCER71H475K3M1H03A</field>
+        <field name="Footprint">RDER72E154K3M1H03A</field>
+        <field name="Datasheet">https://psearch.en.murata.com/capacitor/product/RCER71H475K3M1H03A.html</field>
+        <field name="Height">6.5</field>
+        <field name="Mouser Part Number">81-RCER71H475K3M1H3A</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Murata-Electronics/RCER71H475K3M1H03A?qs=Zt%252BKPUOg4oeQuCXQX1BgyA%3D%3D</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">RCER71H475K3M1H03A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="CWSA11AAN1H">
+      <description>NKK SWITCHES - CWSA11AAN1H - SWITCH, ROCKER, SPST, 6A, 250VAC, BLACK</description>
+      <docs>http://www.nkkswitches.com/pdf/CWS-2.pdf</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">CWSA11AAN1H</field>
+        <field name="Footprint">CWSA11AAN1H</field>
+        <field name="Datasheet">http://www.nkkswitches.com/pdf/CWS-2.pdf</field>
+        <field name="Height">14.8</field>
+        <field name="Mouser Part Number">633-CWSA11AAN1H</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/NKK-Switches/CWSA11AAN1H?qs=Q3Z28Xqk4Z%252BPrQDMlrRWsA%3D%3D</field>
+        <field name="Manufacturer_Name">NKK Switches</field>
+        <field name="Manufacturer_Part_Number">CWSA11AAN1H</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="A1" name="A1" type="passive"/>
+        <pin num="B1" name="B1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="ELXZ500ELL101MH12D">
+      <description>Cap Aluminum Lytic 100uF 50V 20% (8 X 12mm) Radial 3.5mm 485mA 3000h 105C Automotive Bulk</description>
+      <docs>https://componentsearchengine.com/Datasheets/2/ELXZ500ELL101MH12D.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">ELXZ500ELL101MH12D</field>
+        <field name="Footprint">CAPPRD350W60D825H1350</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/2/ELXZ500ELL101MH12D.pdf</field>
+        <field name="Height">13.5</field>
+        <field name="Mouser Part Number">661-ELXZ500ELL101MH1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Chemi-Con/ELXZ500ELL101MH12D?qs=Bh08734uQZCPydub3Junyw%3D%3D</field>
+        <field name="Manufacturer_Name">Chemi-Con</field>
+        <field name="Manufacturer_Part_Number">ELXZ500ELL101MH12D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="PTN78000AAH">
+      <description>DC/DC Power Supply Single-OUT -15 to -3V PTN78000AAH, DC-DC Power Supply Module 7 V Input,, 5-Pin, DIP Module</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ptn78000a.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">PTN78000AAH</field>
+        <field name="Footprint">EUS(R-PDSS-T5)</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ptn78000a.pdf</field>
+        <field name="Mouser Part Number">595-PTN78000AAH</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/PTN78000AAH?qs=sSOk4GDDv7xMxL4enD0otw%3D%3D</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">PTN78000AAH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VO" type="passive"/>
+        <pin num="2" name="VI" type="passive"/>
+        <pin num="3" name="N/C" type="no_connect"/>
+        <pin num="4" name="VO_ADJUST" type="passive"/>
+        <pin num="5" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="S100-Backplane-rescue">
+      <uri>C:\Projects\S100 Backplane\S100 Backplane V5/S100-Backplane-rescue.lib</uri>
+    </library>
+    <library logical="SamacLib">
+      <uri>C:\Projects\S100 Backplane\S100 Backplane V5/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="SamacSym">
+      <uri>C:\Projects\S100 Backplane\S100 Backplane V5/SamacSys_Parts.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/+8_V">
+      <node ref="F2" pin="2" pintype="input"/>
+      <node ref="P1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/+18_V">
+      <node ref="F3" pin="2" pintype="input"/>
+      <node ref="P1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="3" name="/---({slash}PHANT)">
+      <node ref="P3" pin="10" pinfunction="P10" pintype="passive"/>
+      <node ref="RR7" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U31" pin="67" pinfunction="PHANTOM*" pintype="bidirectional"/>
+      <node ref="U32" pin="67" pinfunction="PHANTOM*" pintype="bidirectional"/>
+      <node ref="U33" pin="67" pinfunction="PHANTOM*" pintype="bidirectional"/>
+      <node ref="U34" pin="67" pinfunction="PHANTOM*" pintype="bidirectional"/>
+      <node ref="U35" pin="67" pinfunction="PHANTOM*" pintype="bidirectional"/>
+      <node ref="U36" pin="67" pinfunction="PHANTOM*" pintype="bidirectional"/>
+      <node ref="U37" pin="67" pinfunction="PHANTOM*" pintype="bidirectional"/>
+      <node ref="U38" pin="67" pinfunction="PHANTOM*" pintype="bidirectional"/>
+      <node ref="U39" pin="67" pinfunction="PHANTOM*" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/-16_V">
+      <node ref="F1" pin="2" pintype="input"/>
+      <node ref="P1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/A0">
+      <node ref="P4" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="RR8" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U31" pin="79" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="U32" pin="79" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="U33" pin="79" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="U34" pin="79" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="U35" pin="79" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="U36" pin="79" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="U37" pin="79" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="U38" pin="79" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="U39" pin="79" pinfunction="A0" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/A1">
+      <node ref="P4" pin="10" pinfunction="P10" pintype="passive"/>
+      <node ref="RR9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U31" pin="80" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="U32" pin="80" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="U33" pin="80" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="U34" pin="80" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="U35" pin="80" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="U36" pin="80" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="U37" pin="80" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="U38" pin="80" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="U39" pin="80" pinfunction="A1" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/A2">
+      <node ref="P4" pin="12" pinfunction="P12" pintype="passive"/>
+      <node ref="RR9" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U31" pin="81" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="U32" pin="81" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="U33" pin="81" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="U34" pin="81" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="U35" pin="81" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="U36" pin="81" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="U37" pin="81" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="U38" pin="81" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="U39" pin="81" pinfunction="A2" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/A3">
+      <node ref="P4" pin="11" pinfunction="P11" pintype="passive"/>
+      <node ref="RR4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U31" pin="31" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="U32" pin="31" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="U33" pin="31" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="U34" pin="31" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="U35" pin="31" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="U36" pin="31" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="U37" pin="31" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="U38" pin="31" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="U39" pin="31" pinfunction="A3" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/A4">
+      <node ref="P4" pin="9" pinfunction="P9" pintype="passive"/>
+      <node ref="RR4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U31" pin="30" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="U32" pin="30" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="U33" pin="30" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="U34" pin="30" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="U35" pin="30" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="U36" pin="30" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="U37" pin="30" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="U38" pin="30" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="U39" pin="30" pinfunction="A4" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/A5">
+      <node ref="P4" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="RR3" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U31" pin="29" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="U32" pin="29" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="U33" pin="29" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="U34" pin="29" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="U35" pin="29" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="U36" pin="29" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="U37" pin="29" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="U38" pin="29" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="U39" pin="29" pinfunction="A5" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/A6">
+      <node ref="P4" pin="14" pinfunction="P14" pintype="passive"/>
+      <node ref="RR9" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U31" pin="82" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="U32" pin="82" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="U33" pin="82" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="U34" pin="82" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="U35" pin="82" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="U36" pin="82" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="U37" pin="82" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="U38" pin="82" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="U39" pin="82" pinfunction="A6" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/A7">
+      <node ref="P4" pin="16" pinfunction="P16" pintype="passive"/>
+      <node ref="RR9" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U31" pin="83" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="U32" pin="83" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="U33" pin="83" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="U34" pin="83" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="U35" pin="83" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="U36" pin="83" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="U37" pin="83" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="U38" pin="83" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="U39" pin="83" pinfunction="A7" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/A8">
+      <node ref="P4" pin="18" pinfunction="P18" pintype="passive"/>
+      <node ref="RR9" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U31" pin="84" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="U32" pin="84" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="U33" pin="84" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="U34" pin="84" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="U35" pin="84" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="U36" pin="84" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="U37" pin="84" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="U38" pin="84" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="U39" pin="84" pinfunction="A8" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/A9">
+      <node ref="P4" pin="17" pinfunction="P17" pintype="passive"/>
+      <node ref="RR4" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U31" pin="34" pinfunction="A9" pintype="bidirectional"/>
+      <node ref="U32" pin="34" pinfunction="A9" pintype="bidirectional"/>
+      <node ref="U33" pin="34" pinfunction="A9" pintype="bidirectional"/>
+      <node ref="U34" pin="34" pinfunction="A9" pintype="bidirectional"/>
+      <node ref="U35" pin="34" pinfunction="A9" pintype="bidirectional"/>
+      <node ref="U36" pin="34" pinfunction="A9" pintype="bidirectional"/>
+      <node ref="U37" pin="34" pinfunction="A9" pintype="bidirectional"/>
+      <node ref="U38" pin="34" pinfunction="A9" pintype="bidirectional"/>
+      <node ref="U39" pin="34" pinfunction="A9" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/A10">
+      <node ref="P4" pin="23" pinfunction="P23" pintype="passive"/>
+      <node ref="RR4" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U31" pin="37" pinfunction="A10" pintype="bidirectional"/>
+      <node ref="U32" pin="37" pinfunction="A10" pintype="bidirectional"/>
+      <node ref="U33" pin="37" pinfunction="A10" pintype="bidirectional"/>
+      <node ref="U34" pin="37" pinfunction="A10" pintype="bidirectional"/>
+      <node ref="U35" pin="37" pinfunction="A10" pintype="bidirectional"/>
+      <node ref="U36" pin="37" pinfunction="A10" pintype="bidirectional"/>
+      <node ref="U37" pin="37" pinfunction="A10" pintype="bidirectional"/>
+      <node ref="U38" pin="37" pinfunction="A10" pintype="bidirectional"/>
+      <node ref="U39" pin="37" pinfunction="A10" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/A11">
+      <node ref="P4" pin="24" pinfunction="P20" pintype="passive"/>
+      <node ref="RR9" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U31" pin="87" pinfunction="A11" pintype="bidirectional"/>
+      <node ref="U32" pin="87" pinfunction="A11" pintype="bidirectional"/>
+      <node ref="U33" pin="87" pinfunction="A11" pintype="bidirectional"/>
+      <node ref="U34" pin="87" pinfunction="A11" pintype="bidirectional"/>
+      <node ref="U35" pin="87" pinfunction="A11" pintype="bidirectional"/>
+      <node ref="U36" pin="87" pinfunction="A11" pintype="bidirectional"/>
+      <node ref="U37" pin="87" pinfunction="A11" pintype="bidirectional"/>
+      <node ref="U38" pin="87" pinfunction="A11" pintype="bidirectional"/>
+      <node ref="U39" pin="87" pinfunction="A11" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/A12">
+      <node ref="P4" pin="15" pinfunction="P15" pintype="passive"/>
+      <node ref="RR4" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U31" pin="33" pinfunction="A12" pintype="bidirectional"/>
+      <node ref="U32" pin="33" pinfunction="A12" pintype="bidirectional"/>
+      <node ref="U33" pin="33" pinfunction="A12" pintype="bidirectional"/>
+      <node ref="U34" pin="33" pinfunction="A12" pintype="bidirectional"/>
+      <node ref="U35" pin="33" pinfunction="A12" pintype="bidirectional"/>
+      <node ref="U36" pin="33" pinfunction="A12" pintype="bidirectional"/>
+      <node ref="U37" pin="33" pinfunction="A12" pintype="bidirectional"/>
+      <node ref="U38" pin="33" pinfunction="A12" pintype="bidirectional"/>
+      <node ref="U39" pin="33" pinfunction="A12" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/A13">
+      <node ref="P4" pin="20" pinfunction="P20" pintype="passive"/>
+      <node ref="RR9" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U31" pin="85" pinfunction="A13" pintype="bidirectional"/>
+      <node ref="U32" pin="85" pinfunction="A13" pintype="bidirectional"/>
+      <node ref="U33" pin="85" pinfunction="A13" pintype="bidirectional"/>
+      <node ref="U34" pin="85" pinfunction="A13" pintype="bidirectional"/>
+      <node ref="U35" pin="85" pinfunction="A13" pintype="bidirectional"/>
+      <node ref="U36" pin="85" pinfunction="A13" pintype="bidirectional"/>
+      <node ref="U37" pin="85" pinfunction="A13" pintype="bidirectional"/>
+      <node ref="U38" pin="85" pinfunction="A13" pintype="bidirectional"/>
+      <node ref="U39" pin="85" pinfunction="A13" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/A14">
+      <node ref="P4" pin="22" pinfunction="P22" pintype="passive"/>
+      <node ref="RR9" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U31" pin="86" pinfunction="A14" pintype="bidirectional"/>
+      <node ref="U32" pin="86" pinfunction="A14" pintype="bidirectional"/>
+      <node ref="U33" pin="86" pinfunction="A14" pintype="bidirectional"/>
+      <node ref="U34" pin="86" pinfunction="A14" pintype="bidirectional"/>
+      <node ref="U35" pin="86" pinfunction="A14" pintype="bidirectional"/>
+      <node ref="U36" pin="86" pinfunction="A14" pintype="bidirectional"/>
+      <node ref="U37" pin="86" pinfunction="A14" pintype="bidirectional"/>
+      <node ref="U38" pin="86" pinfunction="A14" pintype="bidirectional"/>
+      <node ref="U39" pin="86" pinfunction="A14" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/A15">
+      <node ref="P4" pin="13" pinfunction="P13" pintype="passive"/>
+      <node ref="RR4" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U31" pin="32" pinfunction="A15" pintype="bidirectional"/>
+      <node ref="U32" pin="32" pinfunction="A15" pintype="bidirectional"/>
+      <node ref="U33" pin="32" pinfunction="A15" pintype="bidirectional"/>
+      <node ref="U34" pin="32" pinfunction="A15" pintype="bidirectional"/>
+      <node ref="U35" pin="32" pinfunction="A15" pintype="bidirectional"/>
+      <node ref="U36" pin="32" pinfunction="A15" pintype="bidirectional"/>
+      <node ref="U37" pin="32" pinfunction="A15" pintype="bidirectional"/>
+      <node ref="U38" pin="32" pinfunction="A15" pintype="bidirectional"/>
+      <node ref="U39" pin="32" pinfunction="A15" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/DI0">
+      <node ref="P5" pin="14" pinfunction="P14" pintype="passive"/>
+      <node ref="RR10" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U31" pin="95" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U32" pin="95" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U33" pin="95" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U34" pin="95" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U35" pin="95" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U36" pin="95" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U37" pin="95" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U38" pin="95" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U39" pin="95" pinfunction="DI1_OD1" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/DI1">
+      <node ref="P5" pin="12" pinfunction="P12" pintype="passive"/>
+      <node ref="RR10" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U31" pin="94" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U32" pin="94" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U33" pin="94" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U34" pin="94" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U35" pin="94" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U36" pin="94" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U37" pin="94" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U38" pin="94" pinfunction="DI1_OD1" pintype="bidirectional"/>
+      <node ref="U39" pin="94" pinfunction="DI1_OD1" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/DI2">
+      <node ref="P5" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="RR5" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U31" pin="41" pinfunction="D12_OD2" pintype="bidirectional"/>
+      <node ref="U32" pin="41" pinfunction="D12_OD2" pintype="bidirectional"/>
+      <node ref="U33" pin="41" pinfunction="D12_OD2" pintype="bidirectional"/>
+      <node ref="U34" pin="41" pinfunction="D12_OD2" pintype="bidirectional"/>
+      <node ref="U35" pin="41" pinfunction="D12_OD2" pintype="bidirectional"/>
+      <node ref="U36" pin="41" pinfunction="D12_OD2" pintype="bidirectional"/>
+      <node ref="U37" pin="41" pinfunction="D12_OD2" pintype="bidirectional"/>
+      <node ref="U38" pin="41" pinfunction="D12_OD2" pintype="bidirectional"/>
+      <node ref="U39" pin="41" pinfunction="D12_OD2" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/DI3">
+      <node ref="P5" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="RR5" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U31" pin="42" pinfunction="D13_OD3" pintype="bidirectional"/>
+      <node ref="U32" pin="42" pinfunction="D13_OD3" pintype="bidirectional"/>
+      <node ref="U33" pin="42" pinfunction="D13_OD3" pintype="bidirectional"/>
+      <node ref="U34" pin="42" pinfunction="D13_OD3" pintype="bidirectional"/>
+      <node ref="U35" pin="42" pinfunction="D13_OD3" pintype="bidirectional"/>
+      <node ref="U36" pin="42" pinfunction="D13_OD3" pintype="bidirectional"/>
+      <node ref="U37" pin="42" pinfunction="D13_OD3" pintype="bidirectional"/>
+      <node ref="U38" pin="42" pinfunction="D13_OD3" pintype="bidirectional"/>
+      <node ref="U39" pin="42" pinfunction="D13_OD3" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/DI4">
+      <node ref="P5" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="RR10" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U31" pin="91" pinfunction="DI4_OD4" pintype="bidirectional"/>
+      <node ref="U32" pin="91" pinfunction="DI4_OD4" pintype="bidirectional"/>
+      <node ref="U33" pin="91" pinfunction="DI4_OD4" pintype="bidirectional"/>
+      <node ref="U34" pin="91" pinfunction="DI4_OD4" pintype="bidirectional"/>
+      <node ref="U35" pin="91" pinfunction="DI4_OD4" pintype="bidirectional"/>
+      <node ref="U36" pin="91" pinfunction="DI4_OD4" pintype="bidirectional"/>
+      <node ref="U37" pin="91" pinfunction="DI4_OD4" pintype="bidirectional"/>
+      <node ref="U38" pin="91" pinfunction="DI4_OD4" pintype="bidirectional"/>
+      <node ref="U39" pin="91" pinfunction="DI4_OD4" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/DI5">
+      <node ref="P5" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="RR10" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U31" pin="92" pinfunction="DI5_OD5" pintype="bidirectional"/>
+      <node ref="U32" pin="92" pinfunction="DI5_OD5" pintype="bidirectional"/>
+      <node ref="U33" pin="92" pinfunction="DI5_OD5" pintype="bidirectional"/>
+      <node ref="U34" pin="92" pinfunction="DI5_OD5" pintype="bidirectional"/>
+      <node ref="U35" pin="92" pinfunction="DI5_OD5" pintype="bidirectional"/>
+      <node ref="U36" pin="92" pinfunction="DI5_OD5" pintype="bidirectional"/>
+      <node ref="U37" pin="92" pinfunction="DI5_OD5" pintype="bidirectional"/>
+      <node ref="U38" pin="92" pinfunction="DI5_OD5" pintype="bidirectional"/>
+      <node ref="U39" pin="92" pinfunction="DI5_OD5" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/DI6">
+      <node ref="P5" pin="10" pinfunction="P10" pintype="passive"/>
+      <node ref="RR10" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U31" pin="93" pinfunction="DI6_OD6" pintype="bidirectional"/>
+      <node ref="U32" pin="93" pinfunction="DI6_OD6" pintype="bidirectional"/>
+      <node ref="U33" pin="93" pinfunction="DI6_OD6" pintype="bidirectional"/>
+      <node ref="U34" pin="93" pinfunction="DI6_OD6" pintype="bidirectional"/>
+      <node ref="U35" pin="93" pinfunction="DI6_OD6" pintype="bidirectional"/>
+      <node ref="U36" pin="93" pinfunction="DI6_OD6" pintype="bidirectional"/>
+      <node ref="U37" pin="93" pinfunction="DI6_OD6" pintype="bidirectional"/>
+      <node ref="U38" pin="93" pinfunction="DI6_OD6" pintype="bidirectional"/>
+      <node ref="U39" pin="93" pinfunction="DI6_OD6" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/DI7">
+      <node ref="P5" pin="9" pinfunction="P9" pintype="passive"/>
+      <node ref="RR5" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U31" pin="43" pinfunction="D17_OD7" pintype="bidirectional"/>
+      <node ref="U32" pin="43" pinfunction="D17_OD7" pintype="bidirectional"/>
+      <node ref="U33" pin="43" pinfunction="D17_OD7" pintype="bidirectional"/>
+      <node ref="U34" pin="43" pinfunction="D17_OD7" pintype="bidirectional"/>
+      <node ref="U35" pin="43" pinfunction="D17_OD7" pintype="bidirectional"/>
+      <node ref="U36" pin="43" pinfunction="D17_OD7" pintype="bidirectional"/>
+      <node ref="U37" pin="43" pinfunction="D17_OD7" pintype="bidirectional"/>
+      <node ref="U38" pin="43" pinfunction="D17_OD7" pintype="bidirectional"/>
+      <node ref="U39" pin="43" pinfunction="D17_OD7" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/DIG1(---)">
+      <node ref="P2" pin="16" pinfunction="P16" pintype="passive"/>
+      <node ref="RR6" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U31" pin="57" pinfunction="TMA2*" pintype="bidirectional"/>
+      <node ref="U32" pin="57" pinfunction="TMA2*" pintype="bidirectional"/>
+      <node ref="U33" pin="57" pinfunction="TMA2*" pintype="bidirectional"/>
+      <node ref="U34" pin="57" pinfunction="TMA2*" pintype="bidirectional"/>
+      <node ref="U35" pin="57" pinfunction="TMA2*" pintype="bidirectional"/>
+      <node ref="U36" pin="57" pinfunction="TMA2*" pintype="bidirectional"/>
+      <node ref="U37" pin="57" pinfunction="TMA2*" pintype="bidirectional"/>
+      <node ref="U38" pin="57" pinfunction="TMA2*" pintype="bidirectional"/>
+      <node ref="U39" pin="57" pinfunction="TMA2*" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/DO0">
+      <node ref="P4" pin="21" pinfunction="P21" pintype="passive"/>
+      <node ref="RR4" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U31" pin="36" pinfunction="DO0_ED0" pintype="bidirectional"/>
+      <node ref="U32" pin="36" pinfunction="DO0_ED0" pintype="bidirectional"/>
+      <node ref="U33" pin="36" pinfunction="DO0_ED0" pintype="bidirectional"/>
+      <node ref="U34" pin="36" pinfunction="DO0_ED0" pintype="bidirectional"/>
+      <node ref="U35" pin="36" pinfunction="DO0_ED0" pintype="bidirectional"/>
+      <node ref="U36" pin="36" pinfunction="DO0_ED0" pintype="bidirectional"/>
+      <node ref="U37" pin="36" pinfunction="DO0_ED0" pintype="bidirectional"/>
+      <node ref="U38" pin="36" pinfunction="DO0_ED0" pintype="bidirectional"/>
+      <node ref="U39" pin="36" pinfunction="DO0_ED0" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/DO1">
+      <node ref="P4" pin="19" pinfunction="P19" pintype="passive"/>
+      <node ref="RR4" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U31" pin="35" pinfunction="DO1_ED1" pintype="bidirectional"/>
+      <node ref="U32" pin="35" pinfunction="DO1_ED1" pintype="bidirectional"/>
+      <node ref="U33" pin="35" pinfunction="DO1_ED1" pintype="bidirectional"/>
+      <node ref="U34" pin="35" pinfunction="DO1_ED1" pintype="bidirectional"/>
+      <node ref="U35" pin="35" pinfunction="DO1_ED1" pintype="bidirectional"/>
+      <node ref="U36" pin="35" pinfunction="DO1_ED1" pintype="bidirectional"/>
+      <node ref="U37" pin="35" pinfunction="DO1_ED1" pintype="bidirectional"/>
+      <node ref="U38" pin="35" pinfunction="DO1_ED1" pintype="bidirectional"/>
+      <node ref="U39" pin="35" pinfunction="DO1_ED1" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/DO2">
+      <node ref="P4" pin="26" pinfunction="P22" pintype="passive"/>
+      <node ref="RR9" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U31" pin="88" pinfunction="DO2_ED2" pintype="bidirectional"/>
+      <node ref="U32" pin="88" pinfunction="DO2_ED2" pintype="bidirectional"/>
+      <node ref="U33" pin="88" pinfunction="DO2_ED2" pintype="bidirectional"/>
+      <node ref="U34" pin="88" pinfunction="DO2_ED2" pintype="bidirectional"/>
+      <node ref="U35" pin="88" pinfunction="DO2_ED2" pintype="bidirectional"/>
+      <node ref="U36" pin="88" pinfunction="DO2_ED2" pintype="bidirectional"/>
+      <node ref="U37" pin="88" pinfunction="DO2_ED2" pintype="bidirectional"/>
+      <node ref="U38" pin="88" pinfunction="DO2_ED2" pintype="bidirectional"/>
+      <node ref="U39" pin="88" pinfunction="DO2_ED2" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/DO3">
+      <node ref="P5" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="RR10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U31" pin="89" pinfunction="DO3_ED3" pintype="bidirectional"/>
+      <node ref="U32" pin="89" pinfunction="DO3_ED3" pintype="bidirectional"/>
+      <node ref="U33" pin="89" pinfunction="DO3_ED3" pintype="bidirectional"/>
+      <node ref="U34" pin="89" pinfunction="DO3_ED3" pintype="bidirectional"/>
+      <node ref="U35" pin="89" pinfunction="DO3_ED3" pintype="bidirectional"/>
+      <node ref="U36" pin="89" pinfunction="DO3_ED3" pintype="bidirectional"/>
+      <node ref="U37" pin="89" pinfunction="DO3_ED3" pintype="bidirectional"/>
+      <node ref="U38" pin="89" pinfunction="DO3_ED3" pintype="bidirectional"/>
+      <node ref="U39" pin="89" pinfunction="DO3_ED3" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/DO4">
+      <node ref="P4" pin="25" pinfunction="P24" pintype="passive"/>
+      <node ref="RR4" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U31" pin="38" pinfunction="DO4_ED4" pintype="bidirectional"/>
+      <node ref="U32" pin="38" pinfunction="DO4_ED4" pintype="bidirectional"/>
+      <node ref="U33" pin="38" pinfunction="DO4_ED4" pintype="bidirectional"/>
+      <node ref="U34" pin="38" pinfunction="DO4_ED4" pintype="bidirectional"/>
+      <node ref="U35" pin="38" pinfunction="DO4_ED4" pintype="bidirectional"/>
+      <node ref="U36" pin="38" pinfunction="DO4_ED4" pintype="bidirectional"/>
+      <node ref="U37" pin="38" pinfunction="DO4_ED4" pintype="bidirectional"/>
+      <node ref="U38" pin="38" pinfunction="DO4_ED4" pintype="bidirectional"/>
+      <node ref="U39" pin="38" pinfunction="DO4_ED4" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/DO5">
+      <node ref="P5" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="RR5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U31" pin="39" pinfunction="DO5_ED5" pintype="bidirectional"/>
+      <node ref="U32" pin="39" pinfunction="DO5_ED5" pintype="bidirectional"/>
+      <node ref="U33" pin="39" pinfunction="DO5_ED5" pintype="bidirectional"/>
+      <node ref="U34" pin="39" pinfunction="DO5_ED5" pintype="bidirectional"/>
+      <node ref="U35" pin="39" pinfunction="DO5_ED5" pintype="bidirectional"/>
+      <node ref="U36" pin="39" pinfunction="DO5_ED5" pintype="bidirectional"/>
+      <node ref="U37" pin="39" pinfunction="DO5_ED5" pintype="bidirectional"/>
+      <node ref="U38" pin="39" pinfunction="DO5_ED5" pintype="bidirectional"/>
+      <node ref="U39" pin="39" pinfunction="DO5_ED5" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/DO6">
+      <node ref="P5" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="RR5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U31" pin="40" pinfunction="DO6_ED6" pintype="bidirectional"/>
+      <node ref="U32" pin="40" pinfunction="DO6_ED6" pintype="bidirectional"/>
+      <node ref="U33" pin="40" pinfunction="DO6_ED6" pintype="bidirectional"/>
+      <node ref="U34" pin="40" pinfunction="DO6_ED6" pintype="bidirectional"/>
+      <node ref="U35" pin="40" pinfunction="DO6_ED6" pintype="bidirectional"/>
+      <node ref="U36" pin="40" pinfunction="DO6_ED6" pintype="bidirectional"/>
+      <node ref="U37" pin="40" pinfunction="DO6_ED6" pintype="bidirectional"/>
+      <node ref="U38" pin="40" pinfunction="DO6_ED6" pintype="bidirectional"/>
+      <node ref="U39" pin="40" pinfunction="DO6_ED6" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/DO7">
+      <node ref="P5" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="RR10" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U31" pin="90" pinfunction="DO7_ED7" pintype="bidirectional"/>
+      <node ref="U32" pin="90" pinfunction="DO7_ED7" pintype="bidirectional"/>
+      <node ref="U33" pin="90" pinfunction="DO7_ED7" pintype="bidirectional"/>
+      <node ref="U34" pin="90" pinfunction="DO7_ED7" pintype="bidirectional"/>
+      <node ref="U35" pin="90" pinfunction="DO7_ED7" pintype="bidirectional"/>
+      <node ref="U36" pin="90" pinfunction="DO7_ED7" pintype="bidirectional"/>
+      <node ref="U37" pin="90" pinfunction="DO7_ED7" pintype="bidirectional"/>
+      <node ref="U38" pin="90" pinfunction="DO7_ED7" pintype="bidirectional"/>
+      <node ref="U39" pin="90" pinfunction="DO7_ED7" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="/F+8V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="F2" pin="1" pintype="input"/>
+      <node ref="IC1" pin="VI" pinfunction="VI" pintype="input"/>
+      <node ref="IC5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="IC5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="P2" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="P2" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U31" pin="1" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U31" pin="51" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U32" pin="1" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U32" pin="51" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U33" pin="1" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U33" pin="51" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U34" pin="1" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U34" pin="51" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U35" pin="1" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U35" pin="51" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U36" pin="1" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U36" pin="51" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U37" pin="1" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U37" pin="51" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U38" pin="1" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U38" pin="51" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U39" pin="1" pinfunction="+8_V" pintype="power_in"/>
+      <node ref="U39" pin="51" pinfunction="+8_V" pintype="power_in"/>
+    </net>
+    <net code="40" name="/F+16V">
+      <node ref="D2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="F3" pin="1" pintype="input"/>
+      <node ref="IC4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="P2" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="U31" pin="2" pinfunction="+16_V" pintype="power_in"/>
+      <node ref="U32" pin="2" pinfunction="+16_V" pintype="power_in"/>
+      <node ref="U33" pin="2" pinfunction="+16_V" pintype="power_in"/>
+      <node ref="U34" pin="2" pinfunction="+16_V" pintype="power_in"/>
+      <node ref="U35" pin="2" pinfunction="+16_V" pintype="power_in"/>
+      <node ref="U36" pin="2" pinfunction="+16_V" pintype="power_in"/>
+      <node ref="U37" pin="2" pinfunction="+16_V" pintype="power_in"/>
+      <node ref="U38" pin="2" pinfunction="+16_V" pintype="power_in"/>
+      <node ref="U39" pin="2" pinfunction="+16_V" pintype="power_in"/>
+    </net>
+    <net code="41" name="/F-16V">
+      <node ref="C11" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="input"/>
+      <node ref="IC3" pin="1" pinfunction="VO" pintype="passive"/>
+      <node ref="P2" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U31" pin="52" pinfunction="-16_V" pintype="power_in"/>
+      <node ref="U32" pin="52" pinfunction="-16_V" pintype="power_in"/>
+      <node ref="U33" pin="52" pinfunction="-16_V" pintype="power_in"/>
+      <node ref="U34" pin="52" pinfunction="-16_V" pintype="power_in"/>
+      <node ref="U35" pin="52" pinfunction="-16_V" pintype="power_in"/>
+      <node ref="U36" pin="52" pinfunction="-16_V" pintype="power_in"/>
+      <node ref="U37" pin="52" pinfunction="-16_V" pintype="power_in"/>
+      <node ref="U38" pin="52" pinfunction="-16_V" pintype="power_in"/>
+      <node ref="U39" pin="52" pinfunction="-16_V" pintype="power_in"/>
+    </net>
+    <net code="42" name="/FRDY(---)">
+      <node ref="P2" pin="18" pinfunction="P18" pintype="passive"/>
+      <node ref="RR6" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U31" pin="58" pinfunction="sXTRQ*" pintype="bidirectional"/>
+      <node ref="U32" pin="58" pinfunction="sXTRQ*" pintype="bidirectional"/>
+      <node ref="U33" pin="58" pinfunction="sXTRQ*" pintype="bidirectional"/>
+      <node ref="U34" pin="58" pinfunction="sXTRQ*" pintype="bidirectional"/>
+      <node ref="U35" pin="58" pinfunction="sXTRQ*" pintype="bidirectional"/>
+      <node ref="U36" pin="58" pinfunction="sXTRQ*" pintype="bidirectional"/>
+      <node ref="U37" pin="58" pinfunction="sXTRQ*" pintype="bidirectional"/>
+      <node ref="U38" pin="58" pinfunction="sXTRQ*" pintype="bidirectional"/>
+      <node ref="U39" pin="58" pinfunction="sXTRQ*" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="/MWRT">
+      <node ref="P3" pin="12" pinfunction="P12" pintype="passive"/>
+      <node ref="RR7" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U31" pin="68" pinfunction="MWRT" pintype="bidirectional"/>
+      <node ref="U32" pin="68" pinfunction="MWRT" pintype="bidirectional"/>
+      <node ref="U33" pin="68" pinfunction="MWRT" pintype="bidirectional"/>
+      <node ref="U34" pin="68" pinfunction="MWRT" pintype="bidirectional"/>
+      <node ref="U35" pin="68" pinfunction="MWRT" pintype="bidirectional"/>
+      <node ref="U36" pin="68" pinfunction="MWRT" pintype="bidirectional"/>
+      <node ref="U37" pin="68" pinfunction="MWRT" pintype="bidirectional"/>
+      <node ref="U38" pin="68" pinfunction="MWRT" pintype="bidirectional"/>
+      <node ref="U39" pin="68" pinfunction="MWRT" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/PDBIN">
+      <node ref="P4" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="RR8" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U31" pin="78" pinfunction="pDBIN" pintype="bidirectional"/>
+      <node ref="U32" pin="78" pinfunction="pDBIN" pintype="bidirectional"/>
+      <node ref="U33" pin="78" pinfunction="pDBIN" pintype="bidirectional"/>
+      <node ref="U34" pin="78" pinfunction="pDBIN" pintype="bidirectional"/>
+      <node ref="U35" pin="78" pinfunction="pDBIN" pintype="bidirectional"/>
+      <node ref="U36" pin="78" pinfunction="pDBIN" pintype="bidirectional"/>
+      <node ref="U37" pin="78" pinfunction="pDBIN" pintype="bidirectional"/>
+      <node ref="U38" pin="78" pinfunction="pDBIN" pintype="bidirectional"/>
+      <node ref="U39" pin="78" pinfunction="pDBIN" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="/PHLDA">
+      <node ref="P4" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="RR3" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U31" pin="26" pinfunction="pHDLA" pintype="bidirectional"/>
+      <node ref="U32" pin="26" pinfunction="pHDLA" pintype="bidirectional"/>
+      <node ref="U33" pin="26" pinfunction="pHDLA" pintype="bidirectional"/>
+      <node ref="U34" pin="26" pinfunction="pHDLA" pintype="bidirectional"/>
+      <node ref="U35" pin="26" pinfunction="pHDLA" pintype="bidirectional"/>
+      <node ref="U36" pin="26" pinfunction="pHDLA" pintype="bidirectional"/>
+      <node ref="U37" pin="26" pinfunction="pHDLA" pintype="bidirectional"/>
+      <node ref="U38" pin="26" pinfunction="pHDLA" pintype="bidirectional"/>
+      <node ref="U39" pin="26" pinfunction="pHDLA" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="/PINTE">
+      <node ref="P4" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="RR3" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U31" pin="28" pinfunction="RFU_2" pintype="bidirectional"/>
+      <node ref="U32" pin="28" pinfunction="RFU_2" pintype="bidirectional"/>
+      <node ref="U33" pin="28" pinfunction="RFU_2" pintype="bidirectional"/>
+      <node ref="U34" pin="28" pinfunction="RFU_2" pintype="bidirectional"/>
+      <node ref="U35" pin="28" pinfunction="RFU_2" pintype="bidirectional"/>
+      <node ref="U36" pin="28" pinfunction="RFU_2" pintype="bidirectional"/>
+      <node ref="U37" pin="28" pinfunction="RFU_2" pintype="bidirectional"/>
+      <node ref="U38" pin="28" pinfunction="RFU_2" pintype="bidirectional"/>
+      <node ref="U39" pin="28" pinfunction="RFU_2" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/PRDY">
+      <node ref="P3" pin="20" pinfunction="P20" pintype="passive"/>
+      <node ref="RR8" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U31" pin="72" pinfunction="RDY" pintype="bidirectional"/>
+      <node ref="U32" pin="72" pinfunction="RDY" pintype="bidirectional"/>
+      <node ref="U33" pin="72" pinfunction="RDY" pintype="bidirectional"/>
+      <node ref="U34" pin="72" pinfunction="RDY" pintype="bidirectional"/>
+      <node ref="U35" pin="72" pinfunction="RDY" pintype="bidirectional"/>
+      <node ref="U36" pin="72" pinfunction="RDY" pintype="bidirectional"/>
+      <node ref="U37" pin="72" pinfunction="RDY" pintype="bidirectional"/>
+      <node ref="U38" pin="72" pinfunction="RDY" pintype="bidirectional"/>
+      <node ref="U39" pin="72" pinfunction="RDY" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="/PROT(GND)">
+      <node ref="JP3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="P3" pin="16" pinfunction="P16" pintype="passive"/>
+      <node ref="RR7" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U31" pin="70" pinfunction="0_V4" pintype="bidirectional"/>
+      <node ref="U32" pin="70" pinfunction="0_V4" pintype="bidirectional"/>
+      <node ref="U33" pin="70" pinfunction="0_V4" pintype="bidirectional"/>
+      <node ref="U34" pin="70" pinfunction="0_V4" pintype="bidirectional"/>
+      <node ref="U35" pin="70" pinfunction="0_V4" pintype="bidirectional"/>
+      <node ref="U36" pin="70" pinfunction="0_V4" pintype="bidirectional"/>
+      <node ref="U37" pin="70" pinfunction="0_V4" pintype="bidirectional"/>
+      <node ref="U38" pin="70" pinfunction="0_V4" pintype="bidirectional"/>
+      <node ref="U39" pin="70" pinfunction="0_V4" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="/PSYNC">
+      <node ref="P4" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="RR8" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U31" pin="76" pinfunction="pSYNC" pintype="bidirectional"/>
+      <node ref="U32" pin="76" pinfunction="pSYNC" pintype="bidirectional"/>
+      <node ref="U33" pin="76" pinfunction="pSYNC" pintype="bidirectional"/>
+      <node ref="U34" pin="76" pinfunction="pSYNC" pintype="bidirectional"/>
+      <node ref="U35" pin="76" pinfunction="pSYNC" pintype="bidirectional"/>
+      <node ref="U36" pin="76" pinfunction="pSYNC" pintype="bidirectional"/>
+      <node ref="U37" pin="76" pinfunction="pSYNC" pintype="bidirectional"/>
+      <node ref="U38" pin="76" pinfunction="pSYNC" pintype="bidirectional"/>
+      <node ref="U39" pin="76" pinfunction="pSYNC" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="/PWAIT">
+      <node ref="P4" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="RR3" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U31" pin="27" pinfunction="RFU_1" pintype="bidirectional"/>
+      <node ref="U32" pin="27" pinfunction="RFU_1" pintype="bidirectional"/>
+      <node ref="U33" pin="27" pinfunction="RFU_1" pintype="bidirectional"/>
+      <node ref="U34" pin="27" pinfunction="RFU_1" pintype="bidirectional"/>
+      <node ref="U35" pin="27" pinfunction="RFU_1" pintype="bidirectional"/>
+      <node ref="U36" pin="27" pinfunction="RFU_1" pintype="bidirectional"/>
+      <node ref="U37" pin="27" pinfunction="RFU_1" pintype="bidirectional"/>
+      <node ref="U38" pin="27" pinfunction="RFU_1" pintype="bidirectional"/>
+      <node ref="U39" pin="27" pinfunction="RFU_1" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="/RTC(---)">
+      <node ref="P2" pin="12" pinfunction="P12" pintype="passive"/>
+      <node ref="RR6" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U31" pin="55" pinfunction="TMA0*" pintype="bidirectional"/>
+      <node ref="U32" pin="55" pinfunction="TMA0*" pintype="bidirectional"/>
+      <node ref="U33" pin="55" pinfunction="TMA0*" pintype="bidirectional"/>
+      <node ref="U34" pin="55" pinfunction="TMA0*" pintype="bidirectional"/>
+      <node ref="U35" pin="55" pinfunction="TMA0*" pintype="bidirectional"/>
+      <node ref="U36" pin="55" pinfunction="TMA0*" pintype="bidirectional"/>
+      <node ref="U37" pin="55" pinfunction="TMA0*" pintype="bidirectional"/>
+      <node ref="U38" pin="55" pinfunction="TMA0*" pintype="bidirectional"/>
+      <node ref="U39" pin="55" pinfunction="TMA0*" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="/RUN">
+      <node ref="P3" pin="18" pinfunction="P18" pintype="passive"/>
+      <node ref="RR8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U31" pin="71" pinfunction="RFU4" pintype="bidirectional"/>
+      <node ref="U32" pin="71" pinfunction="RFU4" pintype="bidirectional"/>
+      <node ref="U33" pin="71" pinfunction="RFU4" pintype="bidirectional"/>
+      <node ref="U34" pin="71" pinfunction="RFU4" pintype="bidirectional"/>
+      <node ref="U35" pin="71" pinfunction="RFU4" pintype="bidirectional"/>
+      <node ref="U36" pin="71" pinfunction="RFU4" pintype="bidirectional"/>
+      <node ref="U37" pin="71" pinfunction="RFU4" pintype="bidirectional"/>
+      <node ref="U38" pin="71" pinfunction="RFU4" pintype="bidirectional"/>
+      <node ref="U39" pin="71" pinfunction="RFU4" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="/SHLTA">
+      <node ref="P5" pin="19" pinfunction="P19" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U31" pin="48" pinfunction="sHLTA" pintype="bidirectional"/>
+      <node ref="U32" pin="48" pinfunction="sHLTA" pintype="bidirectional"/>
+      <node ref="U33" pin="48" pinfunction="sHLTA" pintype="bidirectional"/>
+      <node ref="U34" pin="48" pinfunction="sHLTA" pintype="bidirectional"/>
+      <node ref="U35" pin="48" pinfunction="sHLTA" pintype="bidirectional"/>
+      <node ref="U36" pin="48" pinfunction="sHLTA" pintype="bidirectional"/>
+      <node ref="U37" pin="48" pinfunction="sHLTA" pintype="bidirectional"/>
+      <node ref="U38" pin="48" pinfunction="sHLTA" pintype="bidirectional"/>
+      <node ref="U39" pin="48" pinfunction="sHLTA" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="/SINP">
+      <node ref="P5" pin="15" pinfunction="P15" pintype="passive"/>
+      <node ref="RR5" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U31" pin="46" pinfunction="sINP" pintype="bidirectional"/>
+      <node ref="U32" pin="46" pinfunction="sINP" pintype="bidirectional"/>
+      <node ref="U33" pin="46" pinfunction="sINP" pintype="bidirectional"/>
+      <node ref="U34" pin="46" pinfunction="sINP" pintype="bidirectional"/>
+      <node ref="U35" pin="46" pinfunction="sINP" pintype="bidirectional"/>
+      <node ref="U36" pin="46" pinfunction="sINP" pintype="bidirectional"/>
+      <node ref="U37" pin="46" pinfunction="sINP" pintype="bidirectional"/>
+      <node ref="U38" pin="46" pinfunction="sINP" pintype="bidirectional"/>
+      <node ref="U39" pin="46" pinfunction="sINP" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="/SINTA">
+      <node ref="P5" pin="16" pinfunction="P16" pintype="passive"/>
+      <node ref="RR10" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U31" pin="96" pinfunction="sINTA" pintype="bidirectional"/>
+      <node ref="U32" pin="96" pinfunction="sINTA" pintype="bidirectional"/>
+      <node ref="U33" pin="96" pinfunction="sINTA" pintype="bidirectional"/>
+      <node ref="U34" pin="96" pinfunction="sINTA" pintype="bidirectional"/>
+      <node ref="U35" pin="96" pinfunction="sINTA" pintype="bidirectional"/>
+      <node ref="U36" pin="96" pinfunction="sINTA" pintype="bidirectional"/>
+      <node ref="U37" pin="96" pinfunction="sINTA" pintype="bidirectional"/>
+      <node ref="U38" pin="96" pinfunction="sINTA" pintype="bidirectional"/>
+      <node ref="U39" pin="96" pinfunction="sINTA" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="/SM1">
+      <node ref="P5" pin="11" pinfunction="P11" pintype="passive"/>
+      <node ref="RR5" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U31" pin="44" pinfunction="sM1" pintype="bidirectional"/>
+      <node ref="U32" pin="44" pinfunction="sM1" pintype="bidirectional"/>
+      <node ref="U33" pin="44" pinfunction="sM1" pintype="bidirectional"/>
+      <node ref="U34" pin="44" pinfunction="sM1" pintype="bidirectional"/>
+      <node ref="U35" pin="44" pinfunction="sM1" pintype="bidirectional"/>
+      <node ref="U36" pin="44" pinfunction="sM1" pintype="bidirectional"/>
+      <node ref="U37" pin="44" pinfunction="sM1" pintype="bidirectional"/>
+      <node ref="U38" pin="44" pinfunction="sM1" pintype="bidirectional"/>
+      <node ref="U39" pin="44" pinfunction="sM1" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="/SMEMR">
+      <node ref="P5" pin="17" pinfunction="P17" pintype="passive"/>
+      <node ref="RR5" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U31" pin="47" pinfunction="sMEMR" pintype="bidirectional"/>
+      <node ref="U32" pin="47" pinfunction="sMEMR" pintype="bidirectional"/>
+      <node ref="U33" pin="47" pinfunction="sMEMR" pintype="bidirectional"/>
+      <node ref="U34" pin="47" pinfunction="sMEMR" pintype="bidirectional"/>
+      <node ref="U35" pin="47" pinfunction="sMEMR" pintype="bidirectional"/>
+      <node ref="U36" pin="47" pinfunction="sMEMR" pintype="bidirectional"/>
+      <node ref="U37" pin="47" pinfunction="sMEMR" pintype="bidirectional"/>
+      <node ref="U38" pin="47" pinfunction="sMEMR" pintype="bidirectional"/>
+      <node ref="U39" pin="47" pinfunction="sMEMR" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="/SOUT">
+      <node ref="P5" pin="13" pinfunction="P13" pintype="passive"/>
+      <node ref="RR5" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U31" pin="45" pinfunction="sOUT" pintype="bidirectional"/>
+      <node ref="U32" pin="45" pinfunction="sOUT" pintype="bidirectional"/>
+      <node ref="U33" pin="45" pinfunction="sOUT" pintype="bidirectional"/>
+      <node ref="U34" pin="45" pinfunction="sOUT" pintype="bidirectional"/>
+      <node ref="U35" pin="45" pinfunction="sOUT" pintype="bidirectional"/>
+      <node ref="U36" pin="45" pinfunction="sOUT" pintype="bidirectional"/>
+      <node ref="U37" pin="45" pinfunction="sOUT" pintype="bidirectional"/>
+      <node ref="U38" pin="45" pinfunction="sOUT" pintype="bidirectional"/>
+      <node ref="U39" pin="45" pinfunction="sOUT" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="/SS">
+      <node ref="P3" pin="17" pinfunction="P17" pintype="passive"/>
+      <node ref="RR3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U31" pin="21" pinfunction="NDEF1" pintype="bidirectional"/>
+      <node ref="U32" pin="21" pinfunction="NDEF1" pintype="bidirectional"/>
+      <node ref="U33" pin="21" pinfunction="NDEF1" pintype="bidirectional"/>
+      <node ref="U34" pin="21" pinfunction="NDEF1" pintype="bidirectional"/>
+      <node ref="U35" pin="21" pinfunction="NDEF1" pintype="bidirectional"/>
+      <node ref="U36" pin="21" pinfunction="NDEF1" pintype="bidirectional"/>
+      <node ref="U37" pin="21" pinfunction="NDEF1" pintype="bidirectional"/>
+      <node ref="U38" pin="21" pinfunction="NDEF1" pintype="bidirectional"/>
+      <node ref="U39" pin="21" pinfunction="NDEF1" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="/SSTACK">
+      <node ref="P5" pin="20" pinfunction="P20" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U31" pin="98" pinfunction="ERROR*" pintype="bidirectional"/>
+      <node ref="U32" pin="98" pinfunction="ERROR*" pintype="bidirectional"/>
+      <node ref="U33" pin="98" pinfunction="ERROR*" pintype="bidirectional"/>
+      <node ref="U34" pin="98" pinfunction="ERROR*" pintype="bidirectional"/>
+      <node ref="U35" pin="98" pinfunction="ERROR*" pintype="bidirectional"/>
+      <node ref="U36" pin="98" pinfunction="ERROR*" pintype="bidirectional"/>
+      <node ref="U37" pin="98" pinfunction="ERROR*" pintype="bidirectional"/>
+      <node ref="U38" pin="98" pinfunction="ERROR*" pintype="bidirectional"/>
+      <node ref="U39" pin="98" pinfunction="ERROR*" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="/UNPROT(T5)">
+      <node ref="JP1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="P3" pin="15" pinfunction="P15" pintype="passive"/>
+      <node ref="RR2" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U31" pin="20" pinfunction="0_V1" pintype="bidirectional"/>
+      <node ref="U32" pin="20" pinfunction="0_V1" pintype="bidirectional"/>
+      <node ref="U33" pin="20" pinfunction="0_V1" pintype="bidirectional"/>
+      <node ref="U34" pin="20" pinfunction="0_V1" pintype="bidirectional"/>
+      <node ref="U35" pin="20" pinfunction="0_V1" pintype="bidirectional"/>
+      <node ref="U36" pin="20" pinfunction="0_V1" pintype="bidirectional"/>
+      <node ref="U37" pin="20" pinfunction="0_V1" pintype="bidirectional"/>
+      <node ref="U38" pin="20" pinfunction="0_V1" pintype="bidirectional"/>
+      <node ref="U39" pin="20" pinfunction="0_V1" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="/VCC">
+      <node ref="IC1" pin="VO" pinfunction="VO" pintype="input"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="/VIN">
+      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C9" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="IC3" pin="2" pinfunction="VI" pintype="passive"/>
+      <node ref="IC4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="IC5" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="IC5" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="SW2" pin="A1" pinfunction="A1" pintype="passive"/>
+    </net>
+    <net code="66" name="/VI_0">
+      <node ref="P2" pin="9" pinfunction="P9" pintype="passive"/>
+      <node ref="RR1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U31" pin="4" pinfunction="VIO*" pintype="bidirectional"/>
+      <node ref="U32" pin="4" pinfunction="VIO*" pintype="bidirectional"/>
+      <node ref="U33" pin="4" pinfunction="VIO*" pintype="bidirectional"/>
+      <node ref="U34" pin="4" pinfunction="VIO*" pintype="bidirectional"/>
+      <node ref="U35" pin="4" pinfunction="VIO*" pintype="bidirectional"/>
+      <node ref="U36" pin="4" pinfunction="VIO*" pintype="bidirectional"/>
+      <node ref="U37" pin="4" pinfunction="VIO*" pintype="bidirectional"/>
+      <node ref="U38" pin="4" pinfunction="VIO*" pintype="bidirectional"/>
+      <node ref="U39" pin="4" pinfunction="VIO*" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="/VI_1">
+      <node ref="P2" pin="11" pinfunction="P11" pintype="passive"/>
+      <node ref="RR1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U31" pin="5" pinfunction="VI1*" pintype="bidirectional"/>
+      <node ref="U32" pin="5" pinfunction="VI1*" pintype="bidirectional"/>
+      <node ref="U33" pin="5" pinfunction="VI1*" pintype="bidirectional"/>
+      <node ref="U34" pin="5" pinfunction="VI1*" pintype="bidirectional"/>
+      <node ref="U35" pin="5" pinfunction="VI1*" pintype="bidirectional"/>
+      <node ref="U36" pin="5" pinfunction="VI1*" pintype="bidirectional"/>
+      <node ref="U37" pin="5" pinfunction="VI1*" pintype="bidirectional"/>
+      <node ref="U38" pin="5" pinfunction="VI1*" pintype="bidirectional"/>
+      <node ref="U39" pin="5" pinfunction="VI1*" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="/VI_2">
+      <node ref="P2" pin="13" pinfunction="P13" pintype="passive"/>
+      <node ref="RR1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U31" pin="6" pinfunction="VI2*" pintype="bidirectional"/>
+      <node ref="U32" pin="6" pinfunction="VI2*" pintype="bidirectional"/>
+      <node ref="U33" pin="6" pinfunction="VI2*" pintype="bidirectional"/>
+      <node ref="U34" pin="6" pinfunction="VI2*" pintype="bidirectional"/>
+      <node ref="U35" pin="6" pinfunction="VI2*" pintype="bidirectional"/>
+      <node ref="U36" pin="6" pinfunction="VI2*" pintype="bidirectional"/>
+      <node ref="U37" pin="6" pinfunction="VI2*" pintype="bidirectional"/>
+      <node ref="U38" pin="6" pinfunction="VI2*" pintype="bidirectional"/>
+      <node ref="U39" pin="6" pinfunction="VI2*" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="/VI_3">
+      <node ref="P2" pin="15" pinfunction="P15" pintype="passive"/>
+      <node ref="RR1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U31" pin="7" pinfunction="VI3*" pintype="bidirectional"/>
+      <node ref="U32" pin="7" pinfunction="VI3*" pintype="bidirectional"/>
+      <node ref="U33" pin="7" pinfunction="VI3*" pintype="bidirectional"/>
+      <node ref="U34" pin="7" pinfunction="VI3*" pintype="bidirectional"/>
+      <node ref="U35" pin="7" pinfunction="VI3*" pintype="bidirectional"/>
+      <node ref="U36" pin="7" pinfunction="VI3*" pintype="bidirectional"/>
+      <node ref="U37" pin="7" pinfunction="VI3*" pintype="bidirectional"/>
+      <node ref="U38" pin="7" pinfunction="VI3*" pintype="bidirectional"/>
+      <node ref="U39" pin="7" pinfunction="VI3*" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="/VI_4">
+      <node ref="P2" pin="17" pinfunction="P17" pintype="passive"/>
+      <node ref="RR1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U31" pin="8" pinfunction="VI4*" pintype="bidirectional"/>
+      <node ref="U32" pin="8" pinfunction="VI4*" pintype="bidirectional"/>
+      <node ref="U33" pin="8" pinfunction="VI4*" pintype="bidirectional"/>
+      <node ref="U34" pin="8" pinfunction="VI4*" pintype="bidirectional"/>
+      <node ref="U35" pin="8" pinfunction="VI4*" pintype="bidirectional"/>
+      <node ref="U36" pin="8" pinfunction="VI4*" pintype="bidirectional"/>
+      <node ref="U37" pin="8" pinfunction="VI4*" pintype="bidirectional"/>
+      <node ref="U38" pin="8" pinfunction="VI4*" pintype="bidirectional"/>
+      <node ref="U39" pin="8" pinfunction="VI4*" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="/VI_5">
+      <node ref="P2" pin="19" pinfunction="P19" pintype="passive"/>
+      <node ref="RR1" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U31" pin="9" pinfunction="VI5*" pintype="bidirectional"/>
+      <node ref="U32" pin="9" pinfunction="VI5*" pintype="bidirectional"/>
+      <node ref="U33" pin="9" pinfunction="VI5*" pintype="bidirectional"/>
+      <node ref="U34" pin="9" pinfunction="VI5*" pintype="bidirectional"/>
+      <node ref="U35" pin="9" pinfunction="VI5*" pintype="bidirectional"/>
+      <node ref="U36" pin="9" pinfunction="VI5*" pintype="bidirectional"/>
+      <node ref="U37" pin="9" pinfunction="VI5*" pintype="bidirectional"/>
+      <node ref="U38" pin="9" pinfunction="VI5*" pintype="bidirectional"/>
+      <node ref="U39" pin="9" pinfunction="VI5*" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="/VI_6">
+      <node ref="P2" pin="21" pinfunction="P21" pintype="passive"/>
+      <node ref="RR1" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U31" pin="10" pinfunction="VI6*" pintype="bidirectional"/>
+      <node ref="U32" pin="10" pinfunction="VI6*" pintype="bidirectional"/>
+      <node ref="U33" pin="10" pinfunction="VI6*" pintype="bidirectional"/>
+      <node ref="U34" pin="10" pinfunction="VI6*" pintype="bidirectional"/>
+      <node ref="U35" pin="10" pinfunction="VI6*" pintype="bidirectional"/>
+      <node ref="U36" pin="10" pinfunction="VI6*" pintype="bidirectional"/>
+      <node ref="U37" pin="10" pinfunction="VI6*" pintype="bidirectional"/>
+      <node ref="U38" pin="10" pinfunction="VI6*" pintype="bidirectional"/>
+      <node ref="U39" pin="10" pinfunction="VI6*" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="/VI_7">
+      <node ref="P2" pin="23" pinfunction="P23" pintype="passive"/>
+      <node ref="RR1" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U31" pin="11" pinfunction="VI7*" pintype="bidirectional"/>
+      <node ref="U32" pin="11" pinfunction="VI7*" pintype="bidirectional"/>
+      <node ref="U33" pin="11" pinfunction="VI7*" pintype="bidirectional"/>
+      <node ref="U34" pin="11" pinfunction="VI7*" pintype="bidirectional"/>
+      <node ref="U35" pin="11" pinfunction="VI7*" pintype="bidirectional"/>
+      <node ref="U36" pin="11" pinfunction="VI7*" pintype="bidirectional"/>
+      <node ref="U37" pin="11" pinfunction="VI7*" pintype="bidirectional"/>
+      <node ref="U38" pin="11" pinfunction="VI7*" pintype="bidirectional"/>
+      <node ref="U39" pin="11" pinfunction="VI7*" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="/Vacc">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="6" pinfunction="OUTPUT" pintype="output"/>
+      <node ref="Q3" pin="3" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="RR1" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="RR10" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="RR2" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="RR3" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="RR4" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="RR5" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="RR6" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="RR7" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="RR8" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="RR9" pin="1" pinfunction="COM" pintype="passive"/>
+    </net>
+    <net code="77" name="/XRDY">
+      <node ref="P2" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="RR1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U31" pin="3" pinfunction="XRDY" pintype="bidirectional"/>
+      <node ref="U32" pin="3" pinfunction="XRDY" pintype="bidirectional"/>
+      <node ref="U33" pin="3" pinfunction="XRDY" pintype="bidirectional"/>
+      <node ref="U34" pin="3" pinfunction="XRDY" pintype="bidirectional"/>
+      <node ref="U35" pin="3" pinfunction="XRDY" pintype="bidirectional"/>
+      <node ref="U36" pin="3" pinfunction="XRDY" pintype="bidirectional"/>
+      <node ref="U37" pin="3" pinfunction="XRDY" pintype="bidirectional"/>
+      <node ref="U38" pin="3" pinfunction="XRDY" pintype="bidirectional"/>
+      <node ref="U39" pin="3" pinfunction="XRDY" pintype="bidirectional"/>
+    </net>
+    <net code="78" name="/phi1">
+      <node ref="P3" pin="25" pinfunction="P24" pintype="passive"/>
+      <node ref="RR3" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U31" pin="25" pinfunction="pSTVAL*" pintype="bidirectional"/>
+      <node ref="U32" pin="25" pinfunction="pSTVAL*" pintype="bidirectional"/>
+      <node ref="U33" pin="25" pinfunction="pSTVAL*" pintype="bidirectional"/>
+      <node ref="U34" pin="25" pinfunction="pSTVAL*" pintype="bidirectional"/>
+      <node ref="U35" pin="25" pinfunction="pSTVAL*" pintype="bidirectional"/>
+      <node ref="U36" pin="25" pinfunction="pSTVAL*" pintype="bidirectional"/>
+      <node ref="U37" pin="25" pinfunction="pSTVAL*" pintype="bidirectional"/>
+      <node ref="U38" pin="25" pinfunction="pSTVAL*" pintype="bidirectional"/>
+      <node ref="U39" pin="25" pinfunction="pSTVAL*" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="/phi2">
+      <node ref="P3" pin="23" pinfunction="P23" pintype="passive"/>
+      <node ref="RR3" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U31" pin="24" pinfunction="PHI" pintype="bidirectional"/>
+      <node ref="U32" pin="24" pinfunction="PHI" pintype="bidirectional"/>
+      <node ref="U33" pin="24" pinfunction="PHI" pintype="bidirectional"/>
+      <node ref="U34" pin="24" pinfunction="PHI" pintype="bidirectional"/>
+      <node ref="U35" pin="24" pinfunction="PHI" pintype="bidirectional"/>
+      <node ref="U36" pin="24" pinfunction="PHI" pintype="bidirectional"/>
+      <node ref="U37" pin="24" pinfunction="PHI" pintype="bidirectional"/>
+      <node ref="U38" pin="24" pinfunction="PHI" pintype="bidirectional"/>
+      <node ref="U39" pin="24" pinfunction="PHI" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="/pin_12">
+      <node ref="P2" pin="25" pinfunction="P24" pintype="passive"/>
+      <node ref="RR2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U31" pin="12" pinfunction="NMI*" pintype="bidirectional"/>
+      <node ref="U32" pin="12" pinfunction="NMI*" pintype="bidirectional"/>
+      <node ref="U33" pin="12" pinfunction="NMI*" pintype="bidirectional"/>
+      <node ref="U34" pin="12" pinfunction="NMI*" pintype="bidirectional"/>
+      <node ref="U35" pin="12" pinfunction="NMI*" pintype="bidirectional"/>
+      <node ref="U36" pin="12" pinfunction="NMI*" pintype="bidirectional"/>
+      <node ref="U37" pin="12" pinfunction="NMI*" pintype="bidirectional"/>
+      <node ref="U38" pin="12" pinfunction="NMI*" pintype="bidirectional"/>
+      <node ref="U39" pin="12" pinfunction="NMI*" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="/pin_13">
+      <node ref="P3" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="RR2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U31" pin="13" pinfunction="PWRFAIL*" pintype="bidirectional"/>
+      <node ref="U32" pin="13" pinfunction="PWRFAIL*" pintype="bidirectional"/>
+      <node ref="U33" pin="13" pinfunction="PWRFAIL*" pintype="bidirectional"/>
+      <node ref="U34" pin="13" pinfunction="PWRFAIL*" pintype="bidirectional"/>
+      <node ref="U35" pin="13" pinfunction="PWRFAIL*" pintype="bidirectional"/>
+      <node ref="U36" pin="13" pinfunction="PWRFAIL*" pintype="bidirectional"/>
+      <node ref="U37" pin="13" pinfunction="PWRFAIL*" pintype="bidirectional"/>
+      <node ref="U38" pin="13" pinfunction="PWRFAIL*" pintype="bidirectional"/>
+      <node ref="U39" pin="13" pinfunction="PWRFAIL*" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="/pin_14">
+      <node ref="P3" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="RR2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U31" pin="14" pinfunction="TMA3*" pintype="bidirectional"/>
+      <node ref="U32" pin="14" pinfunction="TMA3*" pintype="bidirectional"/>
+      <node ref="U33" pin="14" pinfunction="TMA3*" pintype="bidirectional"/>
+      <node ref="U34" pin="14" pinfunction="TMA3*" pintype="bidirectional"/>
+      <node ref="U35" pin="14" pinfunction="TMA3*" pintype="bidirectional"/>
+      <node ref="U36" pin="14" pinfunction="TMA3*" pintype="bidirectional"/>
+      <node ref="U37" pin="14" pinfunction="TMA3*" pintype="bidirectional"/>
+      <node ref="U38" pin="14" pinfunction="TMA3*" pintype="bidirectional"/>
+      <node ref="U39" pin="14" pinfunction="TMA3*" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="/pin_15">
+      <node ref="P3" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="RR2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U31" pin="15" pinfunction="A18" pintype="bidirectional"/>
+      <node ref="U32" pin="15" pinfunction="A18" pintype="bidirectional"/>
+      <node ref="U33" pin="15" pinfunction="A18" pintype="bidirectional"/>
+      <node ref="U34" pin="15" pinfunction="A18" pintype="bidirectional"/>
+      <node ref="U35" pin="15" pinfunction="A18" pintype="bidirectional"/>
+      <node ref="U36" pin="15" pinfunction="A18" pintype="bidirectional"/>
+      <node ref="U37" pin="15" pinfunction="A18" pintype="bidirectional"/>
+      <node ref="U38" pin="15" pinfunction="A18" pintype="bidirectional"/>
+      <node ref="U39" pin="15" pinfunction="A18" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="/pin_16">
+      <node ref="P3" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="RR2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U31" pin="16" pinfunction="A16" pintype="bidirectional"/>
+      <node ref="U32" pin="16" pinfunction="A16" pintype="bidirectional"/>
+      <node ref="U33" pin="16" pinfunction="A16" pintype="bidirectional"/>
+      <node ref="U34" pin="16" pinfunction="A16" pintype="bidirectional"/>
+      <node ref="U35" pin="16" pinfunction="A16" pintype="bidirectional"/>
+      <node ref="U36" pin="16" pinfunction="A16" pintype="bidirectional"/>
+      <node ref="U37" pin="16" pinfunction="A16" pintype="bidirectional"/>
+      <node ref="U38" pin="16" pinfunction="A16" pintype="bidirectional"/>
+      <node ref="U39" pin="16" pinfunction="A16" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="/pin_17">
+      <node ref="P3" pin="9" pinfunction="P9" pintype="passive"/>
+      <node ref="RR2" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U31" pin="17" pinfunction="A17" pintype="bidirectional"/>
+      <node ref="U32" pin="17" pinfunction="A17" pintype="bidirectional"/>
+      <node ref="U33" pin="17" pinfunction="A17" pintype="bidirectional"/>
+      <node ref="U34" pin="17" pinfunction="A17" pintype="bidirectional"/>
+      <node ref="U35" pin="17" pinfunction="A17" pintype="bidirectional"/>
+      <node ref="U36" pin="17" pinfunction="A17" pintype="bidirectional"/>
+      <node ref="U37" pin="17" pinfunction="A17" pintype="bidirectional"/>
+      <node ref="U38" pin="17" pinfunction="A17" pintype="bidirectional"/>
+      <node ref="U39" pin="17" pinfunction="A17" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="/pin_59">
+      <node ref="P2" pin="20" pinfunction="P20" pintype="passive"/>
+      <node ref="RR6" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U31" pin="59" pinfunction="A19" pintype="bidirectional"/>
+      <node ref="U32" pin="59" pinfunction="A19" pintype="bidirectional"/>
+      <node ref="U33" pin="59" pinfunction="A19" pintype="bidirectional"/>
+      <node ref="U34" pin="59" pinfunction="A19" pintype="bidirectional"/>
+      <node ref="U35" pin="59" pinfunction="A19" pintype="bidirectional"/>
+      <node ref="U36" pin="59" pinfunction="A19" pintype="bidirectional"/>
+      <node ref="U37" pin="59" pinfunction="A19" pintype="bidirectional"/>
+      <node ref="U38" pin="59" pinfunction="A19" pintype="bidirectional"/>
+      <node ref="U39" pin="59" pinfunction="A19" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="/pin_60">
+      <node ref="P2" pin="22" pinfunction="P22" pintype="passive"/>
+      <node ref="RR6" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U31" pin="60" pinfunction="SIXTN*" pintype="bidirectional"/>
+      <node ref="U32" pin="60" pinfunction="SIXTN*" pintype="bidirectional"/>
+      <node ref="U33" pin="60" pinfunction="SIXTN*" pintype="bidirectional"/>
+      <node ref="U34" pin="60" pinfunction="SIXTN*" pintype="bidirectional"/>
+      <node ref="U35" pin="60" pinfunction="SIXTN*" pintype="bidirectional"/>
+      <node ref="U36" pin="60" pinfunction="SIXTN*" pintype="bidirectional"/>
+      <node ref="U37" pin="60" pinfunction="SIXTN*" pintype="bidirectional"/>
+      <node ref="U38" pin="60" pinfunction="SIXTN*" pintype="bidirectional"/>
+      <node ref="U39" pin="60" pinfunction="SIXTN*" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="/pin_61">
+      <node ref="P2" pin="24" pinfunction="P20" pintype="passive"/>
+      <node ref="RR6" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U31" pin="61" pinfunction="A20" pintype="bidirectional"/>
+      <node ref="U32" pin="61" pinfunction="A20" pintype="bidirectional"/>
+      <node ref="U33" pin="61" pinfunction="A20" pintype="bidirectional"/>
+      <node ref="U34" pin="61" pinfunction="A20" pintype="bidirectional"/>
+      <node ref="U35" pin="61" pinfunction="A20" pintype="bidirectional"/>
+      <node ref="U36" pin="61" pinfunction="A20" pintype="bidirectional"/>
+      <node ref="U37" pin="61" pinfunction="A20" pintype="bidirectional"/>
+      <node ref="U38" pin="61" pinfunction="A20" pintype="bidirectional"/>
+      <node ref="U39" pin="61" pinfunction="A20" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="/pin_62">
+      <node ref="P2" pin="26" pinfunction="P22" pintype="passive"/>
+      <node ref="RR7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U31" pin="62" pinfunction="A21" pintype="bidirectional"/>
+      <node ref="U32" pin="62" pinfunction="A21" pintype="bidirectional"/>
+      <node ref="U33" pin="62" pinfunction="A21" pintype="bidirectional"/>
+      <node ref="U34" pin="62" pinfunction="A21" pintype="bidirectional"/>
+      <node ref="U35" pin="62" pinfunction="A21" pintype="bidirectional"/>
+      <node ref="U36" pin="62" pinfunction="A21" pintype="bidirectional"/>
+      <node ref="U37" pin="62" pinfunction="A21" pintype="bidirectional"/>
+      <node ref="U38" pin="62" pinfunction="A21" pintype="bidirectional"/>
+      <node ref="U39" pin="62" pinfunction="A21" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="/pin_63">
+      <node ref="P3" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="RR7" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U31" pin="63" pinfunction="A22" pintype="bidirectional"/>
+      <node ref="U32" pin="63" pinfunction="A22" pintype="bidirectional"/>
+      <node ref="U33" pin="63" pinfunction="A22" pintype="bidirectional"/>
+      <node ref="U34" pin="63" pinfunction="A22" pintype="bidirectional"/>
+      <node ref="U35" pin="63" pinfunction="A22" pintype="bidirectional"/>
+      <node ref="U36" pin="63" pinfunction="A22" pintype="bidirectional"/>
+      <node ref="U37" pin="63" pinfunction="A22" pintype="bidirectional"/>
+      <node ref="U38" pin="63" pinfunction="A22" pintype="bidirectional"/>
+      <node ref="U39" pin="63" pinfunction="A22" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="/pin_64">
+      <node ref="P3" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="RR7" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U31" pin="64" pinfunction="A23" pintype="bidirectional"/>
+      <node ref="U32" pin="64" pinfunction="A23" pintype="bidirectional"/>
+      <node ref="U33" pin="64" pinfunction="A23" pintype="bidirectional"/>
+      <node ref="U34" pin="64" pinfunction="A23" pintype="bidirectional"/>
+      <node ref="U35" pin="64" pinfunction="A23" pintype="bidirectional"/>
+      <node ref="U36" pin="64" pinfunction="A23" pintype="bidirectional"/>
+      <node ref="U37" pin="64" pinfunction="A23" pintype="bidirectional"/>
+      <node ref="U38" pin="64" pinfunction="A23" pintype="bidirectional"/>
+      <node ref="U39" pin="64" pinfunction="A23" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="/pin_65">
+      <node ref="P3" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="RR7" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U31" pin="65" pinfunction="NDEF2" pintype="bidirectional"/>
+      <node ref="U32" pin="65" pinfunction="NDEF2" pintype="bidirectional"/>
+      <node ref="U33" pin="65" pinfunction="NDEF2" pintype="bidirectional"/>
+      <node ref="U34" pin="65" pinfunction="NDEF2" pintype="bidirectional"/>
+      <node ref="U35" pin="65" pinfunction="NDEF2" pintype="bidirectional"/>
+      <node ref="U36" pin="65" pinfunction="NDEF2" pintype="bidirectional"/>
+      <node ref="U37" pin="65" pinfunction="NDEF2" pintype="bidirectional"/>
+      <node ref="U38" pin="65" pinfunction="NDEF2" pintype="bidirectional"/>
+      <node ref="U39" pin="65" pinfunction="NDEF2" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="/pin_66">
+      <node ref="P3" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="RR7" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U31" pin="66" pinfunction="NDEF3" pintype="bidirectional"/>
+      <node ref="U32" pin="66" pinfunction="NDEF3" pintype="bidirectional"/>
+      <node ref="U33" pin="66" pinfunction="NDEF3" pintype="bidirectional"/>
+      <node ref="U34" pin="66" pinfunction="NDEF3" pintype="bidirectional"/>
+      <node ref="U35" pin="66" pinfunction="NDEF3" pintype="bidirectional"/>
+      <node ref="U36" pin="66" pinfunction="NDEF3" pintype="bidirectional"/>
+      <node ref="U37" pin="66" pinfunction="NDEF3" pintype="bidirectional"/>
+      <node ref="U38" pin="66" pinfunction="NDEF3" pintype="bidirectional"/>
+      <node ref="U39" pin="66" pinfunction="NDEF3" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="/{slash}ADDDSB">
+      <node ref="P3" pin="19" pinfunction="P19" pintype="passive"/>
+      <node ref="RR3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U31" pin="22" pinfunction="ADSB*" pintype="bidirectional"/>
+      <node ref="U32" pin="22" pinfunction="ADSB*" pintype="bidirectional"/>
+      <node ref="U33" pin="22" pinfunction="ADSB*" pintype="bidirectional"/>
+      <node ref="U34" pin="22" pinfunction="ADSB*" pintype="bidirectional"/>
+      <node ref="U35" pin="22" pinfunction="ADSB*" pintype="bidirectional"/>
+      <node ref="U36" pin="22" pinfunction="ADSB*" pintype="bidirectional"/>
+      <node ref="U37" pin="22" pinfunction="ADSB*" pintype="bidirectional"/>
+      <node ref="U38" pin="22" pinfunction="ADSB*" pintype="bidirectional"/>
+      <node ref="U39" pin="22" pinfunction="ADSB*" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="/{slash}CCDSB">
+      <node ref="P3" pin="13" pinfunction="P13" pintype="passive"/>
+      <node ref="RR2" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U31" pin="19" pinfunction="CDSB*" pintype="bidirectional"/>
+      <node ref="U32" pin="19" pinfunction="CDSB*" pintype="bidirectional"/>
+      <node ref="U33" pin="19" pinfunction="CDSB*" pintype="bidirectional"/>
+      <node ref="U34" pin="19" pinfunction="CDSB*" pintype="bidirectional"/>
+      <node ref="U35" pin="19" pinfunction="CDSB*" pintype="bidirectional"/>
+      <node ref="U36" pin="19" pinfunction="CDSB*" pintype="bidirectional"/>
+      <node ref="U37" pin="19" pinfunction="CDSB*" pintype="bidirectional"/>
+      <node ref="U38" pin="19" pinfunction="CDSB*" pintype="bidirectional"/>
+      <node ref="U39" pin="19" pinfunction="CDSB*" pintype="bidirectional"/>
+    </net>
+    <net code="96" name="/{slash}CLOCK">
+      <node ref="P5" pin="21" pinfunction="P21" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U31" pin="49" pinfunction="CLOCK" pintype="bidirectional"/>
+      <node ref="U32" pin="49" pinfunction="CLOCK" pintype="bidirectional"/>
+      <node ref="U33" pin="49" pinfunction="CLOCK" pintype="bidirectional"/>
+      <node ref="U34" pin="49" pinfunction="CLOCK" pintype="bidirectional"/>
+      <node ref="U35" pin="49" pinfunction="CLOCK" pintype="bidirectional"/>
+      <node ref="U36" pin="49" pinfunction="CLOCK" pintype="bidirectional"/>
+      <node ref="U37" pin="49" pinfunction="CLOCK" pintype="bidirectional"/>
+      <node ref="U38" pin="49" pinfunction="CLOCK" pintype="bidirectional"/>
+      <node ref="U39" pin="49" pinfunction="CLOCK" pintype="bidirectional"/>
+    </net>
+    <net code="97" name="/{slash}DODSB">
+      <node ref="P3" pin="21" pinfunction="P21" pintype="passive"/>
+      <node ref="RR3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U31" pin="23" pinfunction="DODSB*" pintype="bidirectional"/>
+      <node ref="U32" pin="23" pinfunction="DODSB*" pintype="bidirectional"/>
+      <node ref="U33" pin="23" pinfunction="DODSB*" pintype="bidirectional"/>
+      <node ref="U34" pin="23" pinfunction="DODSB*" pintype="bidirectional"/>
+      <node ref="U35" pin="23" pinfunction="DODSB*" pintype="bidirectional"/>
+      <node ref="U36" pin="23" pinfunction="DODSB*" pintype="bidirectional"/>
+      <node ref="U37" pin="23" pinfunction="DODSB*" pintype="bidirectional"/>
+      <node ref="U38" pin="23" pinfunction="DODSB*" pintype="bidirectional"/>
+      <node ref="U39" pin="23" pinfunction="DODSB*" pintype="bidirectional"/>
+    </net>
+    <net code="98" name="/{slash}EXTCLR">
+      <node ref="K1" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="P2" pin="10" pinfunction="P10" pintype="passive"/>
+      <node ref="RR6" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U31" pin="54" pinfunction="SLAVE_CLR*" pintype="bidirectional"/>
+      <node ref="U32" pin="54" pinfunction="SLAVE_CLR*" pintype="bidirectional"/>
+      <node ref="U33" pin="54" pinfunction="SLAVE_CLR*" pintype="bidirectional"/>
+      <node ref="U34" pin="54" pinfunction="SLAVE_CLR*" pintype="bidirectional"/>
+      <node ref="U35" pin="54" pinfunction="SLAVE_CLR*" pintype="bidirectional"/>
+      <node ref="U36" pin="54" pinfunction="SLAVE_CLR*" pintype="bidirectional"/>
+      <node ref="U37" pin="54" pinfunction="SLAVE_CLR*" pintype="bidirectional"/>
+      <node ref="U38" pin="54" pinfunction="SLAVE_CLR*" pintype="bidirectional"/>
+      <node ref="U39" pin="54" pinfunction="SLAVE_CLR*" pintype="bidirectional"/>
+    </net>
+    <net code="99" name="/{slash}PHOLD">
+      <node ref="P3" pin="24" pinfunction="P20" pintype="passive"/>
+      <node ref="RR8" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U31" pin="74" pinfunction="HOLD*" pintype="bidirectional"/>
+      <node ref="U32" pin="74" pinfunction="HOLD*" pintype="bidirectional"/>
+      <node ref="U33" pin="74" pinfunction="HOLD*" pintype="bidirectional"/>
+      <node ref="U34" pin="74" pinfunction="HOLD*" pintype="bidirectional"/>
+      <node ref="U35" pin="74" pinfunction="HOLD*" pintype="bidirectional"/>
+      <node ref="U36" pin="74" pinfunction="HOLD*" pintype="bidirectional"/>
+      <node ref="U37" pin="74" pinfunction="HOLD*" pintype="bidirectional"/>
+      <node ref="U38" pin="74" pinfunction="HOLD*" pintype="bidirectional"/>
+      <node ref="U39" pin="74" pinfunction="HOLD*" pintype="bidirectional"/>
+    </net>
+    <net code="100" name="/{slash}PINT">
+      <node ref="P3" pin="22" pinfunction="P22" pintype="passive"/>
+      <node ref="RR8" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U31" pin="73" pinfunction="INT*" pintype="bidirectional"/>
+      <node ref="U32" pin="73" pinfunction="INT*" pintype="bidirectional"/>
+      <node ref="U33" pin="73" pinfunction="INT*" pintype="bidirectional"/>
+      <node ref="U34" pin="73" pinfunction="INT*" pintype="bidirectional"/>
+      <node ref="U35" pin="73" pinfunction="INT*" pintype="bidirectional"/>
+      <node ref="U36" pin="73" pinfunction="INT*" pintype="bidirectional"/>
+      <node ref="U37" pin="73" pinfunction="INT*" pintype="bidirectional"/>
+      <node ref="U38" pin="73" pinfunction="INT*" pintype="bidirectional"/>
+      <node ref="U39" pin="73" pinfunction="INT*" pintype="bidirectional"/>
+    </net>
+    <net code="101" name="/{slash}POC">
+      <node ref="P5" pin="22" pinfunction="P22" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U31" pin="99" pinfunction="POC*" pintype="bidirectional"/>
+      <node ref="U32" pin="99" pinfunction="POC*" pintype="bidirectional"/>
+      <node ref="U33" pin="99" pinfunction="POC*" pintype="bidirectional"/>
+      <node ref="U34" pin="99" pinfunction="POC*" pintype="bidirectional"/>
+      <node ref="U35" pin="99" pinfunction="POC*" pintype="bidirectional"/>
+      <node ref="U36" pin="99" pinfunction="POC*" pintype="bidirectional"/>
+      <node ref="U37" pin="99" pinfunction="POC*" pintype="bidirectional"/>
+      <node ref="U38" pin="99" pinfunction="POC*" pintype="bidirectional"/>
+      <node ref="U39" pin="99" pinfunction="POC*" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="/{slash}PRESET">
+      <node ref="K1" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="P3" pin="26" pinfunction="P22" pintype="passive"/>
+      <node ref="RR8" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U31" pin="75" pinfunction="RESET*" pintype="bidirectional"/>
+      <node ref="U32" pin="75" pinfunction="RESET*" pintype="bidirectional"/>
+      <node ref="U33" pin="75" pinfunction="RESET*" pintype="bidirectional"/>
+      <node ref="U34" pin="75" pinfunction="RESET*" pintype="bidirectional"/>
+      <node ref="U35" pin="75" pinfunction="RESET*" pintype="bidirectional"/>
+      <node ref="U36" pin="75" pinfunction="RESET*" pintype="bidirectional"/>
+      <node ref="U37" pin="75" pinfunction="RESET*" pintype="bidirectional"/>
+      <node ref="U38" pin="75" pinfunction="RESET*" pintype="bidirectional"/>
+      <node ref="U39" pin="75" pinfunction="RESET*" pintype="bidirectional"/>
+    </net>
+    <net code="103" name="/{slash}PS(---)">
+      <node ref="P3" pin="14" pinfunction="P14" pintype="passive"/>
+      <node ref="RR7" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U31" pin="69" pinfunction="RFU3" pintype="bidirectional"/>
+      <node ref="U32" pin="69" pinfunction="RFU3" pintype="bidirectional"/>
+      <node ref="U33" pin="69" pinfunction="RFU3" pintype="bidirectional"/>
+      <node ref="U34" pin="69" pinfunction="RFU3" pintype="bidirectional"/>
+      <node ref="U35" pin="69" pinfunction="RFU3" pintype="bidirectional"/>
+      <node ref="U36" pin="69" pinfunction="RFU3" pintype="bidirectional"/>
+      <node ref="U37" pin="69" pinfunction="RFU3" pintype="bidirectional"/>
+      <node ref="U38" pin="69" pinfunction="RFU3" pintype="bidirectional"/>
+      <node ref="U39" pin="69" pinfunction="RFU3" pintype="bidirectional"/>
+    </net>
+    <net code="104" name="/{slash}PWR">
+      <node ref="P4" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="RR8" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U31" pin="77" pinfunction="pWR*" pintype="bidirectional"/>
+      <node ref="U32" pin="77" pinfunction="pWR*" pintype="bidirectional"/>
+      <node ref="U33" pin="77" pinfunction="pWR*" pintype="bidirectional"/>
+      <node ref="U34" pin="77" pinfunction="pWR*" pintype="bidirectional"/>
+      <node ref="U35" pin="77" pinfunction="pWR*" pintype="bidirectional"/>
+      <node ref="U36" pin="77" pinfunction="pWR*" pintype="bidirectional"/>
+      <node ref="U37" pin="77" pinfunction="pWR*" pintype="bidirectional"/>
+      <node ref="U38" pin="77" pinfunction="pWR*" pintype="bidirectional"/>
+      <node ref="U39" pin="77" pinfunction="pWR*" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="/{slash}SSW_DSBL">
+      <node ref="JP2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="P2" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="RR6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U31" pin="53" pinfunction="0_V3" pintype="bidirectional"/>
+      <node ref="U32" pin="53" pinfunction="0_V3" pintype="bidirectional"/>
+      <node ref="U33" pin="53" pinfunction="0_V3" pintype="bidirectional"/>
+      <node ref="U34" pin="53" pinfunction="0_V3" pintype="bidirectional"/>
+      <node ref="U35" pin="53" pinfunction="0_V3" pintype="bidirectional"/>
+      <node ref="U36" pin="53" pinfunction="0_V3" pintype="bidirectional"/>
+      <node ref="U37" pin="53" pinfunction="0_V3" pintype="bidirectional"/>
+      <node ref="U38" pin="53" pinfunction="0_V3" pintype="bidirectional"/>
+      <node ref="U39" pin="53" pinfunction="0_V3" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="/{slash}STADSB">
+      <node ref="P3" pin="11" pinfunction="P11" pintype="passive"/>
+      <node ref="RR2" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U31" pin="18" pinfunction="SDSB*" pintype="bidirectional"/>
+      <node ref="U32" pin="18" pinfunction="SDSB*" pintype="bidirectional"/>
+      <node ref="U33" pin="18" pinfunction="SDSB*" pintype="bidirectional"/>
+      <node ref="U34" pin="18" pinfunction="SDSB*" pintype="bidirectional"/>
+      <node ref="U35" pin="18" pinfunction="SDSB*" pintype="bidirectional"/>
+      <node ref="U36" pin="18" pinfunction="SDSB*" pintype="bidirectional"/>
+      <node ref="U37" pin="18" pinfunction="SDSB*" pintype="bidirectional"/>
+      <node ref="U38" pin="18" pinfunction="SDSB*" pintype="bidirectional"/>
+      <node ref="U39" pin="18" pinfunction="SDSB*" pintype="bidirectional"/>
+    </net>
+    <net code="107" name="/{slash}STSTB(---)">
+      <node ref="P2" pin="14" pinfunction="P14" pintype="passive"/>
+      <node ref="RR6" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U31" pin="56" pinfunction="TMA1*" pintype="bidirectional"/>
+      <node ref="U32" pin="56" pinfunction="TMA1*" pintype="bidirectional"/>
+      <node ref="U33" pin="56" pinfunction="TMA1*" pintype="bidirectional"/>
+      <node ref="U34" pin="56" pinfunction="TMA1*" pintype="bidirectional"/>
+      <node ref="U35" pin="56" pinfunction="TMA1*" pintype="bidirectional"/>
+      <node ref="U36" pin="56" pinfunction="TMA1*" pintype="bidirectional"/>
+      <node ref="U37" pin="56" pinfunction="TMA1*" pintype="bidirectional"/>
+      <node ref="U38" pin="56" pinfunction="TMA1*" pintype="bidirectional"/>
+      <node ref="U39" pin="56" pinfunction="TMA1*" pintype="bidirectional"/>
+    </net>
+    <net code="108" name="/{slash}SWO">
+      <node ref="P5" pin="18" pinfunction="P18" pintype="passive"/>
+      <node ref="RR10" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U31" pin="97" pinfunction="sWO*" pintype="bidirectional"/>
+      <node ref="U32" pin="97" pinfunction="sWO*" pintype="bidirectional"/>
+      <node ref="U33" pin="97" pinfunction="sWO*" pintype="bidirectional"/>
+      <node ref="U34" pin="97" pinfunction="sWO*" pintype="bidirectional"/>
+      <node ref="U35" pin="97" pinfunction="sWO*" pintype="bidirectional"/>
+      <node ref="U36" pin="97" pinfunction="sWO*" pintype="bidirectional"/>
+      <node ref="U37" pin="97" pinfunction="sWO*" pintype="bidirectional"/>
+      <node ref="U38" pin="97" pinfunction="sWO*" pintype="bidirectional"/>
+      <node ref="U39" pin="97" pinfunction="sWO*" pintype="bidirectional"/>
+    </net>
+    <net code="109" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C11" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="IC1" pin="GND" pinfunction="GND" pintype="input"/>
+      <node ref="IC3" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="IC4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="IC5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="IC5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="IC5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="IC5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="P1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="P1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="P10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P2" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="P2" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="P5" pin="23" pinfunction="P23" pintype="passive"/>
+      <node ref="P5" pin="24" pinfunction="P20" pintype="passive"/>
+      <node ref="P5" pin="25" pinfunction="P24" pintype="passive"/>
+      <node ref="P5" pin="26" pinfunction="P22" pintype="passive"/>
+      <node ref="P6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q2" pin="1" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U31" pin="100" pinfunction="0_V5" pintype="power_in"/>
+      <node ref="U31" pin="50" pinfunction="0_V2" pintype="power_in"/>
+      <node ref="U32" pin="100" pinfunction="0_V5" pintype="power_in"/>
+      <node ref="U32" pin="50" pinfunction="0_V2" pintype="power_in"/>
+      <node ref="U33" pin="100" pinfunction="0_V5" pintype="power_in"/>
+      <node ref="U33" pin="50" pinfunction="0_V2" pintype="power_in"/>
+      <node ref="U34" pin="100" pinfunction="0_V5" pintype="power_in"/>
+      <node ref="U34" pin="50" pinfunction="0_V2" pintype="power_in"/>
+      <node ref="U35" pin="100" pinfunction="0_V5" pintype="power_in"/>
+      <node ref="U35" pin="50" pinfunction="0_V2" pintype="power_in"/>
+      <node ref="U36" pin="100" pinfunction="0_V5" pintype="power_in"/>
+      <node ref="U36" pin="50" pinfunction="0_V2" pintype="power_in"/>
+      <node ref="U37" pin="100" pinfunction="0_V5" pintype="power_in"/>
+      <node ref="U37" pin="50" pinfunction="0_V2" pintype="power_in"/>
+      <node ref="U38" pin="100" pinfunction="0_V5" pintype="power_in"/>
+      <node ref="U38" pin="50" pinfunction="0_V2" pintype="power_in"/>
+      <node ref="U39" pin="100" pinfunction="0_V5" pintype="power_in"/>
+      <node ref="U39" pin="50" pinfunction="0_V2" pintype="power_in"/>
+    </net>
+    <net code="110" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="3" pinfunction="PLUS" pintype="input"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(D1-K)">
+      <node ref="D1" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(D2-K)">
+      <node ref="D2" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(D3-K)">
+      <node ref="D3" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(IC2-FIN-Pad8)">
+      <node ref="IC2" pin="8" pinfunction="FIN" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="115" name="Net-(IC2-MINUS-Pad2)">
+      <node ref="IC2" pin="2" pinfunction="MINUS" pintype="input"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(IC2-MINUS-Pad4)">
+      <node ref="IC2" pin="4" pinfunction="MINUS" pintype="input"/>
+      <node ref="Q2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(IC3-VO_ADJUST)">
+      <node ref="IC3" pin="4" pinfunction="VO_ADJUST" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="118" name="Net-(IC5-Pin_10)">
+      <node ref="IC5" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="IC5" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="119" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="B1" pinfunction="B1" pintype="passive"/>
+    </net>
+    <net code="120" name="Net-(K1-PM)">
+      <node ref="K1" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="P12" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="121" name="Net-(P12-PM)">
+      <node ref="P12" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="122" name="Net-(Q1-B)">
+      <node ref="IC2" pin="7" pinfunction="PLUS" pintype="input"/>
+      <node ref="Q1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="123" name="Net-(Q1-C)">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q3" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="124" name="Net-(Q4-B)">
+      <node ref="Q2" pin="3" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="125" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="126" name="Net-(R1-Pad3)">
+      <node ref="R1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="127" name="unconnected-(IC2-FIN-Pad1)">
+      <node ref="IC2" pin="1" pinfunction="FIN" pintype="passive+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(IC2-FOUT-Pad5)">
+      <node ref="IC2" pin="5" pinfunction="FOUT" pintype="passive+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(IC3-N{slash}C-Pad3)">
+      <node ref="IC3" pin="3" pinfunction="N/C" pintype="no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(IC4-Pin_1-Pad1)">
+      <node ref="IC4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="131" name="unconnected-(IC5-Pin_11-Pad11)">
+      <node ref="IC5" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="132" name="unconnected-(IC5-Pin_12-Pad12)">
+      <node ref="IC5" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="133" name="unconnected-(J1-MountPin-PadMP)">
+      <node ref="J1" pin="MP" pinfunction="MountPin" pintype="passive"/>
+    </net>
+    <net code="134" name="unconnected-(SW2-Pad1)">
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>

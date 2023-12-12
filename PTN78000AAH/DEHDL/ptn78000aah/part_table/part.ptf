@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PTN78000AAH'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Texas Instruments", "PTN78000AAH" (!) = "", "EUS(R-PDSS-T5)", "Other", "595-PTN78000AAH", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/PTN78000AAH?qs=sSOk4GDDv7xMxL4enD0otw%3D%3D", "DC/DC Power Supply Single-OUT -15 to -3V PTN78000AAH, DC-DC Power Supply Module 7 V Input,, 5-Pin, DIP Module", "http://www.ti.com/lit/ds/symlink/ptn78000a.pdf"
+END_PART
+
+END.

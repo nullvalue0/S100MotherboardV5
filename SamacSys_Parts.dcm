@@ -1,0 +1,69 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PTN78000AAH
+D DC/DC Power Supply Single-OUT -15 to -3V PTN78000AAH, DC-DC Power Supply Module 7 V Input,, 5-Pin, DIP Module
+K
+F http://www.ti.com/lit/ds/symlink/ptn78000a.pdf
+$ENDCMP
+#
+$CMP CWSA11AAN1H
+D NKK SWITCHES - CWSA11AAN1H - SWITCH, ROCKER, SPST, 6A, 250VAC, BLACK
+K
+F http://www.nkkswitches.com/pdf/CWS-2.pdf
+$ENDCMP
+#
+$CMP ELXZ500ELL101MH12D
+D Cap Aluminum Lytic 100uF 50V 20% (8 X 12mm) Radial 3.5mm 485mA 3000h 105C Automotive Bulk
+K
+F https://componentsearchengine.com/Datasheets/2/ELXZ500ELL101MH12D.pdf
+$ENDCMP
+#
+$CMP GRM32ER61C476ME15K
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 47uF 16Volts 20%
+K
+F http://psearch.en.murata.com/capacitor/product/GRM32ER71E226KE15%23.pdf
+$ENDCMP
+#
+$CMP RCER71H475K3M1H03A
+D Capacitor L=5.5mm W=5.0mm T=4.0mm
+K
+F https://psearch.en.murata.com/capacitor/product/RCER71H475K3M1H03A.html
+$ENDCMP
+#
+$CMP TIP30CG
+D Complementary Silicon Plastic Power Transistors
+K
+F http://www.onsemi.com/pub/Collateral/TIP29B-D.PDF
+$ENDCMP
+#
+$CMP 2N3904TA
+D Transistor GP BJT NPN 40V 0.2A TO92-3
+K
+F http://www.onsemi.com/pub/Collateral/2N3904-D.pdf
+$ENDCMP
+#
+$CMP 2N3906TF
+D ON Semi 2N3906TF PNP Transistor, 200 mA, 40 V, 3-Pin TO-92
+K
+F https://www.onsemi.com/pub/Collateral/2N3906-D.pdf
+$ENDCMP
+#
+$CMP TIP29BG
+D ONSEMI - TIP29BG - Bipolar (BJT) Single Transistor, NPN, 80 V, 1 A, 30 W, TO-220, Through Hole
+K
+F https://ms.componentsearchengine.com/Datasheets/2/TIP29BG.pdf
+$ENDCMP
+#
+$CMP B12JH
+D Toggle Switch IP65 SPDT On-None-On, 100 mA, PCB
+K
+F https://componentsearchengine.com/Datasheets/1/B12JH.pdf
+$ENDCMP
+#
+#End Doc Library

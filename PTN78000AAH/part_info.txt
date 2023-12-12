@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=PTN78000AAH
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=5
+Version=2.1
+Released=2017-03-21 10:51:26
+Downloaded=2023-11-26 22:35:42
+3D=N

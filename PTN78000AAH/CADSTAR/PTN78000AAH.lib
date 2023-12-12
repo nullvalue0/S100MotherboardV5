@@ -1,0 +1,15 @@
+.PTN78000AAH :1 ;DC/DC Power Supply Single-OUT -15 to -3V PTN78000AAH, DC-DC Power Supply Module 7 V Input,, 5-Pin, DIP Module
+EUS_R-PDSS-T5_
+*STM IC
+*NGS
+*PLB 1="VO" 2="VI" 3="N/C" 4="VO_ADJUST" 5="GND"
+*MXP 5
+*DFN PTN78000AAH
+~!Mouser Part Number (595-PTN78000AAH)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/PTN78000AAH?qs=sSOk4GDDv7xMxL4enD0otw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (PTN78000AAH)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/ptn78000a.pdf)
+~!Height (-)
+PTN78000AAH
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!G 

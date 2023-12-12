@@ -1,0 +1,100 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PTN78000AAH"
+   (description "DC/DC Power Supply Single-OUT -15 to -3V PTN78000AAH, DC-DC Power Supply Module 7 V Input,, 5-Pin, DIP Module")
+   (family "ANA")
+   (package "EUS(R-PDSS-T5)")
+   (attribute "Datasheet Link" "http://www.ti.com/lit/ds/symlink/ptn78000a.pdf")
+   (attribute "Mouser Part Number" "595-PTN78000AAH")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/PTN78000AAH?qs=sSOk4GDDv7xMxL4enD0otw%3D%3D")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "PTN78000AAH")
+   (gate
+    (symbol "PTN78000AAH")
+    (pin "VO" 1 PS)
+    (pin "VI" 2 PS)
+    (pin "N/C" 3 NC)
+    (pin "VO_ADJUST" 4 PS)
+    (pin "GND" 5 PP)
+   )
+  )
+  (symbol "PTN78000AAH"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "EUS(R-PDSS-T5)"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed true)
+      (pt 0 0)
+      (pt 18.92 0)
+      (pt 18.92 -12.57)
+      (pt 0 -12.57)
+      (pt 0 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 0 -12.57)
+      (pt 0 0)
+      (pt 18.92 0)
+      (pt 18.92 -12.57)
+      (pt 0 -12.57))))
+   (leg 1 (pt 1.52 -1.52) (padstack 0))
+   (leg 2 (pt 1.52 -7.87) (padstack 0))
+   (leg 3 (pt 1.52 -11.05) (padstack 0))
+   (leg 4 (pt 17.4 -11.05) (padstack 0))
+   (leg 5 (pt 17.4 -1.52) (padstack 0))
+   (padstack 0
+    (hole 1.4)
+    (plated true)
+    (pad (layer TCOP) (round 2.1))
+    (pad (layer INNER) (round 2.1))
+    (pad (layer BCOP) (round 2.1))
+   )
+  )
+ )
+)

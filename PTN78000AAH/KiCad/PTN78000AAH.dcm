@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTN78000AAH
+D DC/DC Power Supply Single-OUT -15 to -3V PTN78000AAH, DC-DC Power Supply Module 7 V Input,, 5-Pin, DIP Module
+K
+F http://www.ti.com/lit/ds/symlink/ptn78000a.pdf
+$ENDCMP
+#
+#End Doc Library

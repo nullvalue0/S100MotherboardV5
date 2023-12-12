@@ -6,7 +6,7 @@ I really enjoy working on vintage S-100 systems, however by nature they are very
 
 One limitation of using these power supplies is that current will be limited. It should be ok to power 3 or 4 standard S-100 cards. Any more than that and you'll start to push the limits. This motherboard is not intended to run large/power-hungry systems. Please be considerate of the amperage requirements of the cards you are using. 
 
-I have a project set up through Mouser which has most of the parts required to build this motherboard: https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4174963905 
+I have a project set up through Mouser which has most of the parts required to build this motherboard: [https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4174963905](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=c94cd1ff3c) 
 
 There are a few parts not included in the Mouser project above:
 - LM4250CN - this Op Amp IC is obsolete but can still be found on eBay.

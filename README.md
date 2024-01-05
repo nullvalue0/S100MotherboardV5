@@ -11,7 +11,7 @@ One limitation of using these switching regulators is that current will be limit
 
 If you do choose to populate the active termination components (which is optional, BTW) then I'd also recommend using SIP socket strips to populate the resistor packs. This way if you have a board set you want to use without termination, you can easily disable this feature by removing the resistors and the JP4 jumper.
 
-I have a project set up through Mouser which has most of the parts required to build this motherboard: [https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4174963905](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=c94cd1ff3c) 
+I have a project set up through Mouser which has most of the parts required to build this motherboard: https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=847fe5a657
 
 There are a few parts not included in the Mouser project above:
 - LM4250CN - this Op Amp IC is obsolete but can still be found on eBay

@@ -1,4 +1,4 @@
-22151923553156757
+22157035897742354
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83160,6 +83160,13 @@ Through hole pin header THT 2x06 2.54mm double row
 12
 12
 S100 Backplane
+LEDV
+Led verticale diam 6mm
+LED DEV
+0
+2
+2
+S100 Backplane
 PIN_ARRAY_2X2
 Double rangee de contacts 2 x 2 pins
 CONN
@@ -92070,6 +92077,20 @@ Integrated Circuit
 0
 5
 5
+samac
+MFR0502
+MF-R050-2-1
+Fuse
+0
+2
+2
+samac
+MFR2502
+MF-R250-2-3
+Fuse
+0
+2
+2
 samac
 NE555DR
 D (R-PDSO-G8)

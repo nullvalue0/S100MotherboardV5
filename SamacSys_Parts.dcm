@@ -66,4 +66,16 @@ K
 F https://componentsearchengine.com/Datasheets/1/B12JH.pdf
 $ENDCMP
 #
+$CMP MF-R250-2
+D Resettable Fuses - PPTC 2.5A 30V 0.025ohm Hold 2.5 Trip 5.00
+K
+F https://componentsearchengine.com/Datasheets/1/MF-R250-2.pdf
+$ENDCMP
+#
+$CMP MF-R050-2
+D PTC Resettable Fuse 0.5A(hold) 1A(trip) 60V 40A 0.75W 4s 0.41Ohm Radial 7.9 X 3.1mm T/R Automotive
+K
+F https://componentsearchengine.com/Datasheets/2/MF-R050-2.pdf
+$ENDCMP
+#
 #End Doc Library

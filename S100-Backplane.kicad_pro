@@ -449,6 +449,10 @@
       {
         "netclass": "Default",
         "pattern": "-18_V"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/UNPROT(T5)"
       }
     ]
   },

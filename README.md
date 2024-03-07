@@ -35,6 +35,7 @@ This revision has kept all the great features of the V3 and V4 motherboards incl
 And I've done the following:
 - Updated schematic/pcb to Kicad 7.0 and included all necessary libraries
 - Synced up all parts between schematic & PCB to allow execution of DRC
+- Increased edge connector pin hole sizes to 0.042"
 - Changed fuses to resettable fuses
 - Added 3 On-board power supplies
 - Added Power On/Off toggle switch

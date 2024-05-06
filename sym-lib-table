@@ -3,4 +3,5 @@
   (lib (name "S100-Backplane-rescue")(type "Legacy")(uri "${KIPRJMOD}/S100-Backplane-rescue.lib")(options "")(descr ""))
   (lib (name "SamacLib")(type "Legacy")(uri "${KIPRJMOD}/SamacSys_Parts.lib")(options "")(descr ""))
   (lib (name "SamacSym")(type "KiCad")(uri "${KIPRJMOD}/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+  (lib (name "E101MD1AQE")(type "KiCad")(uri "${KIPRJMOD}/E101MD1AQE.kicad_sym")(options "")(descr ""))
 )
